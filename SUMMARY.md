@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Decentralized](README.md)
+* [Whitepaper](README.md)
 * [The problem](the-problem.md)
 * [The Solution](the-solution.md)
 * [The product](the-product.md)
