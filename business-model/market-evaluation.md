@@ -58,7 +58,7 @@ Crypto trading market is already large, reaching $60T Volume in 2021 (with 30% Y
 
 #### Our Partners <a href="#_2qsyp119etoy" id="_2qsyp119etoy"></a>
 
-![](.gitbook/assets/7)
+![](../.gitbook/assets/7)
 
 We are currently receiving more than 50 leads/applications per week with an average budget \~$250K.
 

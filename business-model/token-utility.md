@@ -1,4 +1,4 @@
-# YELLOW Tokens
+# Token Utility
 
 * **Token Name:** YELLOW
 * **Token Ticker:** YELLOW
@@ -53,15 +53,15 @@ The initial supply of 40M YELLOW tokens will be minted in May 2022, which will a
 | Public    | 400 M   | $24,000,000 | 0 mo  | 12 mo |
 | Total     | 2 000 M |             |       |       |
 
-![](.gitbook/assets/2)
+![](../.gitbook/assets/2)
 
 **Projected Circulation Supply**
 
-![Chart](.gitbook/assets/3)
+![Chart](../.gitbook/assets/3)
 
 **Token distribution and roadmap**
 
-![](.gitbook/assets/4)
+![](../.gitbook/assets/4)
 
 * 30% will be dedicated to ecosystem projects development (Community Fund). Funds from that pool will be allocated based on community proposals
 * 15% will be allocated for growth-hacking rewards
@@ -73,7 +73,7 @@ The initial supply of 40M YELLOW tokens will be minted in May 2022, which will a
 
 
 
-![Chart](.gitbook/assets/5)
+![Chart](../.gitbook/assets/5)
 
 Seed and Strategic funding:
 
