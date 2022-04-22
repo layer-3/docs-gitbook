@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Whitepaper](README.md)
-* [The problem](the-problem.md)
+* [The problem](README.md)
 * [The Solution](the-solution.md)
 * [The product](the-product.md)
 * [Business model](business-model.md)
@@ -10,4 +9,5 @@
 * [Fees](fees.md)
 * [Future Release](future-release.md)
 * [Market evaluation](market-evaluation.md)
+* [Whitepaper](<README (1).md>)
 * [FAQ](faq.md)
