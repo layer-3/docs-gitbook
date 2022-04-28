@@ -1,4 +1,4 @@
-# Decentralized
+# Whitepaper
 
 ## Introduction
 
@@ -140,6 +140,20 @@ Both exchanges have to lock a collateral in order to guaranty they are solvable 
 Brokers are using a state channel protocol \[@perun2] to keep track of assets owned from one broker to another. This technology allows a secure track of funds without the need of on-chain transaction for every trade. It makes the trading process between two brokers very fast and secure.
 
 To open a state-channel, brokers need to agree on an amount of YELLOW tokens to be used as collateral. Once they have an agreement on the amount and they both deposited the tokens, the state-channel is active and they can start trading.
+
+**State definition:**
+
+| Field               | Protobuf type   | Description                                                                                                                                    |
+| ------------------- | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| chain\_id           | uint64          | Identifier of the blockchain on which the application is deployed                                                                              |
+| participants        | repeated string | Brokers addresses                                                                                                                              |
+| channel\_nonce      | uint64          | Unique identifier of the channel for all participants                                                                                          |
+| app\_definition     | string          | Address of the smart contract of the adjudicator application                                                                                   |
+| challenge\_duration | uint64          |                                                                                                                                                |
+| app\_data           | bytes           | See bellow the definition of the  app\_data for Yellow Network liquidity channel                                                               |
+| outcome             | bytes           |                                                                                                                                                |
+| turn\_num           | uint64          | Turn number, this number is incrementing at every turn, it allows to easily identify the latest version of a state                             |
+| is\_final           | bool            | Once true and signed by all participant the channel is closed and the final outcome can be applied on the blockchain safely by any participant |
 
 #### Remote order matching
 
