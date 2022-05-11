@@ -4,7 +4,7 @@
 
 #### Lessons from Traditional Finance[​](https://www.yellow.org/docs/litepaper/market#lessons-from-traditional-finance) <a href="#_ywlzf7jxtue3" id="_ywlzf7jxtue3"></a>
 
-We’ve been powering 150+ Fintech businesses and expect that Blockchain-powered finance to grow exponentially. Crypto-Trading is disruptive but how does it stand against traditional finance?
+We’ve been powering 150+ fintech businesses and expect blockchain-powered finance to grow exponentially. Crypto-trading is disruptive but how does it stand against traditional finance?
 
 | **Wall Street Finance**                                                                                                                   | **Crypto Finance**                                                                                                         |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
@@ -12,11 +12,11 @@ We’ve been powering 150+ Fintech businesses and expect that Blockchain-powered
 | FINRA oversees more than 624,000 brokers across the US.                                                                                   | Brokers do not really exist in crypto, although there are about 400 autonomous exchanges.                                  |
 | Separation of responsibilities between custodian banks, brokers, and exchanges, ensures investor protection. Legal framework is in place. | Crypto exchanges act as all-in-one unlicensed bank, broker, and exchange with no possible auditability and accountability. |
 
-To overgrow The Wall Street, Crypto should use and reimagine the competitor’s strengths.
+To overgrow The Wall Street, crypto should use and reimagine the competitor’s strengths.
 
-#### Industry participants and regulations[​](https://www.yellow.org/docs/litepaper/market#industry-participants-and-regulations) <a href="#_96m01ya3cbds" id="_96m01ya3cbds"></a>
+### Industry Participants and Regulations[​](https://www.yellow.org/docs/litepaper/market#industry-participants-and-regulations) <a href="#_96m01ya3cbds" id="_96m01ya3cbds"></a>
 
-We are convinced that Crypto Finance should learn and leverage from the legacy of Traditional Finance when it comes to responsibilities and users’ protection. It will finally bring blockchain and Web-3 Finance to the new level of mass-scale.
+We are convinced that Crypto Finance should learn and leverage from the legacy of Traditional Finance when it comes to responsibilities and users’ protection. It will finally bring blockchain and Web3 finance to the new level of mass-scale.
 
 #### Financial Forecast & Target MarketCap[​](https://www.yellow.org/docs/litepaper/market#financial-forecast--target-marketcap) <a href="#_cre4qvtdgwnv" id="_cre4qvtdgwnv"></a>
 
@@ -45,7 +45,7 @@ Our projection of the expected gross revenue ratio from HFT trading activities v
 | Est. HFT Gross revenue   | $51M     | $230M    | $552M    | $1,064M  |
 | Est. Total Gross revenue | $63M     | $254M    | $600M    | $1,157M  |
 
-Crypto trading market is already large, reaching $60T Volume in 2021 (with 30% YoY growth). Conquering half of a percent share in crypto trading, Yellow Network becomes a decacorn, executing up to $600B yearly and connecting hundreds of brokers.
+Crypto trading market is already large, reaching $60T volume in 2021 (with 30% YoY growth). Conquering half of a percent share in crypto trading, Yellow Network becomes a hectocorn, executing up to $600B yearly and connecting hundreds of brokers.
 
 |                                         | **2022**     | **2023**     | **2024**      |
 | --------------------------------------- | ------------ | ------------ | ------------- |
@@ -60,20 +60,20 @@ Crypto trading market is already large, reaching $60T Volume in 2021 (with 30% Y
 
 ![](<../.gitbook/assets/Group 13629.png>)
 
-We are currently receiving more than 50 leads/applications per week with an average budget \~$250K.
+We are currently receiving more than 50 leads/applications per week with an average budget of \~$250K.
 
 #### Yellow Revenue[​](https://www.yellow.org/docs/litepaper/business-model#yellow-revenue) <a href="#_7mj450yypr6m" id="_7mj450yypr6m"></a>
 
-We actively develop the technology stack around the Yellow Network, as well as provide Network participants with additional products and services to grow their businesses and the Network itself.
+We actively develop the technology stack around Yellow Network, as well as provide network participants with additional products and services to grow their businesses and the network itself.
 
-This B2B2C business model gives us a variety of revenue streams to sustain operations, marketing, R\&D:
+This B2B2C business model gives us a variety of revenue streams to sustain operations, marketing, and R\&D:
 
-1. Sale of tokens.
-2. Referral from partners – we are connecting incoming leads (brokers/startups) with our network of partners for customization, integrations, taking a referral share from profits they gain.
-3. Integrations – we work to improve the tech-stack from our R\&D funds, but some of the integrations will be provided on a paid basis.
-4. Consultations – our organization helps companies/entrepreneurs jumpstart their business, connecting institutions and partners.
-5. Plugin Marketplace – some of the plugins require an additional license, especially those where we cooperate with partners outside of yellow.
-6. Profits from investments – Yellow Incubator helps companies launch and scale, covering YELLOW token costs from the community funds (non-profit). Also we will provide additional services and mentorship, in exchange for equity in promising startups.
+1. **Sale of tokens**;
+2. **Referral from partners.** We are connecting incoming leads (brokers/startups) with our network of partners for customization, and integrations, taking a referral share from the profits they gain;
+3. **Integrations.** We work to improve the tech tack from our R\&D funds, but some of the integrations will be provided on a paid basis.
+4. **Consultations.** Our organization helps companies/entrepreneurs jumpstart their business, connecting institutions, and partners.
+5. **Plugin Marketplace.** Some of the plugins require an additional license, especially those where we cooperate with partners outside of Yellow.
+6. **Profits from investments.** Yellow Incubator helps companies launch and scale, covering $YELLOW token costs from the community funds (non-profit). Also, we will provide additional services and mentorship in exchange for equity in promising startups.
 
 #### Cost-Revenue Structure for Brokers[​](https://www.yellow.org/docs/litepaper/business-model#cost-revenue-structure-for-brokers) <a href="#_8iwurl3m1rx8" id="_8iwurl3m1rx8"></a>
 
