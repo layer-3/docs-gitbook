@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Background](background.md)
+* [The problem](the-problem.md)
 * [The Solution](the-solution.md)
 * [Business model](business-model/README.md)
   * [Economics](business-model/economics.md)
@@ -21,4 +22,3 @@
 * [Future Release](future-release.md)
 * [Whitepaper](<README (1).md>)
 * [FAQ](faq.md)
-* [The problem](the-problem.md)

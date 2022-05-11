@@ -1,7 +1,7 @@
 # Token Utility
 
 * **Token Name:** YELLOW
-* **Token Ticker:** $YELLOW
+* **Token Ticker:** YELLOW
 
 ### **Token usage**[**​**](https://www.yellow.org/docs/litepaper/yellow-token#token-usage)
 
@@ -11,10 +11,10 @@ The node software is open-source; however, you need to lock YELLOW tokens to bec
 
 Access shared liquidity&#x20;
 
-* Launch an application on supported hardware and give it a name.
-* Lock 250,000 YELLOW tokens to activate 4 peer-to-peer trading channels.
-* Stake collateral to be able to exchange between brokers.
-* Access shared order book liquidity of connected peers.
+* Launch an application on supported hardware and give it a name&#x20;
+* Lock 250,000 YELLOW tokens to activate 4 peer-to-peer trading channels&#x20;
+* Stake collateral to be able to exchange between brokers&#x20;
+* Access shared order book liquidity of connected peers
 
 ### Yellow Token characteristics
 
@@ -38,9 +38,11 @@ Access shared liquidity&#x20;
 
 
 
+
+
 #### Tokenomics <a href="#_ob23eq6hrwly" id="_ob23eq6hrwly"></a>
 
-The initial supply of 40M YELLOW tokens will be minted in May 2022, which will allow users to open up to 160 trading channels within the Yellow Network.
+The initial supply of 40M YELLOW tokens will be minted in May 2022, which will allow users to open up to 160 trading channels within Yellow Network.
 
 | Round     | Tokens  | Market Cap  | Cliff | Vest  |
 | --------- | ------- | ----------- | ----- | ----- |
