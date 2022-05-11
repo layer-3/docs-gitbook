@@ -3,90 +3,81 @@
 * **Token Name:** YELLOW
 * **Token Ticker:** $YELLOW
 
-### **Token usage**[**​**](https://www.yellow.org/docs/litepaper/yellow-token#token-usage)
+### **Token Usage**[**​**](https://www.yellow.org/docs/litepaper/yellow-token#token-usage)
 
-YELLOW tokens are locked to be able to open trading channels with other brokers.
+$YELLOW tokens should be locked on the account to have the ability to open trading channels with other brokers.
 
-The node software is open-source; however, you need to lock YELLOW tokens to become an exchange broker in the Yellow network.
+The node software is open-source; however, you need to lock $YELLOW tokens to become an exchange broker in Yellow Network.
 
-Access shared liquidity&#x20;
-
-* Launch an application on supported hardware and give it a name.
-* Lock 250,000 YELLOW tokens to activate 4 peer-to-peer trading channels.
-* Stake collateral to be able to exchange between brokers.
+* Launch an application on supported hardware and give it a name;&#x20;
+* Lock 250,000 $YELLOW tokens to activate 4 peer-to-peer trading channels;&#x20;
+* Stake collateral to be able to exchange between brokers;&#x20;
 * Access shared order book liquidity of connected peers.
 
-### Yellow Token characteristics
+### Yellow Token Characteristics
 
-#### **Token Type:** ERC-20
+**Token Type:** ERC-20
 
-**Blockchain Network:** ETH, MATIC, BSC, AVAX
+**Blockchain Network:** ETH
 
 **Max Supply:** 10,000,000,000
 
 **Initial Circulation Supply:** 40,000,000 (0.4% of max supply)
 
-**Token Public Sale Price:** 0.05$
+**Token Public Sale Price:** 0.050$
 
-**Initial Circulation Supply Market Cap:** $960,000 (initial unlock \* public price)
+**Initial Circulation Supply Market Cap:** $2,000,000 (initial unlock \* public price)
 
-**Token Public Round Market Cap (Fully Diluted)**: $240,000,000
+**Token Public Round Market Cap (Fully Diluted)**: $500,000,000
 
-**Token release:** May 2022
+**Token release:** July-August 2022
 
 **Project Valuation:** $20M at Seed price
 
+### Tokenomics <a href="#_ob23eq6hrwly" id="_ob23eq6hrwly"></a>
 
+The initial supply of 40M $YELLOW tokens will be minted in Q3 2022, which will allow users to open up to 160 trading channels within Yellow Network.
 
-#### Tokenomics <a href="#_ob23eq6hrwly" id="_ob23eq6hrwly"></a>
+| Round      | Tokens  | Market Cap  | Cliff | Vest  |
+| ---------- | ------- | ----------- | ----- | ----- |
+| Seed       | 500 M   | $2,000,000  | 6 mo  | 36 mo |
+| Influencer | 100 M   | $3,000,000  | 6 mo  | 36 mo |
+| Strategic  | 300 M   | $12,000,000 | 6 mo  | 36 mo |
+| Private A  | 450 M   | $6,000,000  | 4 mo  | 36 mo |
+| Private B  | 460 M   | $12,000,000 | 2 mo  | 24 mo |
+| Private C  | 90 M    | $24,000,000 | 2 mo  | 24 mo |
+| Private D  | 90 M    | $36,000,000 | 2 mo  | 2 mo  |
+| Public     | 10 M    | $50,000,000 | 0 mo  | 12 mo |
+| Total      | 2 000 M |             |       |       |
 
-The initial supply of 40M YELLOW tokens will be minted in May 2022, which will allow users to open up to 160 trading channels within the Yellow Network.
+![](<../.gitbook/assets/Group 13627.png>)
 
-| Round     | Tokens  | Market Cap  | Cliff | Vest  |
-| --------- | ------- | ----------- | ----- | ----- |
-| Seed      | 500 M   | $2,000,000  | 6 mo  | 36 mo |
-| Strategic | 100 M   | $3,000,000  | 6 mo  | 36 mo |
-| Private A | 450 M   | $6,000,000  | 4 mo  | 36 mo |
-| Private B | 550 M   | $12,000,000 | 2 mo  | 24 mo |
-| Public    | 400 M   | $24,000,000 | 0 mo  | 12 mo |
-| Total     | 2 000 M |             |       |       |
+**Token Distribution and Roadmap**
 
-![](../.gitbook/assets/2)
+![](<../.gitbook/assets/Group 13628.png>)
 
-**Projected Circulation Supply**
+* 30% will be dedicated to ecosystem projects development (Community Fund)**;**
+* Funds from that pool will be allocated based on community proposals 15% will be allocated for growth-hacking rewards;&#x20;
+* 10% will be allocated for trading mining rewards;&#x20;
+* 20% will be proportionally vested to the investors during 3 years period;&#x20;
+* 10% will be proportionally vested to the founders and team during 5 years period;&#x20;
+* 12.5% will be allocated for Yellow Treasury and for future growth;&#x20;
+* 2.5% will be allocated for liquidity provision.
 
-![Chart](../.gitbook/assets/3)
-
-**Token distribution and roadmap**
-
-![](../.gitbook/assets/4)
-
-* 30% will be dedicated to ecosystem projects development (Community Fund). Funds from that pool will be allocated based on community proposals
-* 15% will be allocated for growth-hacking rewards
-* 10% will be allocated for trading mining rewards
-* 20% will be proportionally vested to the investors during 3 years period
-* 10% will be proportionally vested to the founders and team during 5 years period
-* 12.5% will be allocated for Yellow Treasury and future growth
-* 2.5% will be allocated for Liquidity provision.
-
-
-
-![Chart](../.gitbook/assets/5)
-
-Seed and Strategic funding:
+#### Seed and Influencer funding:
 
 * 600 Million YELLOW tokens
 * December 2021
 
-Private sale:
+**Private sale (4 rounds) and Strategic sale:**
 
-* 1 Billion YELLOW tokens
-* February 2022
+* 1.390 Billion $YELLOW tokens&#x20;
+* January-June 2022
 
-Public sale:
+**Public sale:**
 
-* 400 Million YELLOW tokens
-* May 2022
+* 100 Million $YELLOW tokens
+* July-August 2022
 
 The final unlock of YELLOW tokens will happen in January 2027. Only community and development funds would contain YELLOW tokens based on the adoption and community activities.
 
