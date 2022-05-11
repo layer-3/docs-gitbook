@@ -1,7 +1,7 @@
 # Token Utility
 
 * **Token Name:** YELLOW
-* **Token Ticker:** YELLOW
+* **Token Ticker:** $YELLOW
 
 ### **Token usage**[**​**](https://www.yellow.org/docs/litepaper/yellow-token#token-usage)
 
