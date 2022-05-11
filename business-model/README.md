@@ -11,7 +11,27 @@ With Yellow Network, you unlock the most cost-efficient and legal-friendly frame
 | Kickstart your local/worldwide brokerage business OR build a broker to buy/trade unique assets with features and performance of centralized exchanges, while funds are protected with smart-contract custody. | Enrich the number of supported assets and increase revenue streams with a low-friction legal framework. Wrapped tokens managed using state channel smart contracts provide access to diverse assets and unique markets. | Reduce the trade fees charged by the platform while holding $YELLOW tokens on your balance on Yellow-supported platforms. |
 |                                                                                                                                                                                                               |                                                                                                                                                                                                                         |                                                                                                                           |
 
-#### Token usage[​](https://www.yellow.org/docs/litepaper/yellow-token#token-usage) <a href="#_kw1brkre74t9" id="_kw1brkre74t9"></a>
+_**The global strategy is to have 1,000+ nodes operating globally on the network by 2025.**_
+
+#### Key stakeholders are:
+
+* **Existing Customers**
+
+Over 50 exchanges are ready to engage with the beta launch of OpenDAX™ v4 with the native Yellow Network integration immediately.
+
+* **FinTech Entrepreneurs**
+
+Those interested in opening an exchange. Our new solution fits every budget and is radically more simple than a standard centralized exchange.
+
+* **Financial Institutions**
+
+Co-invest with us and show interest in selling their services through Yellow Network; they bring a deal flow of their incubates.
+
+* **Crypto-Enthusiasts, Miners & Traders**
+
+Can quickly deploy our node software on any cloud and start liquidity-mining with their exchange account.
+
+#### Token Usage[​](https://www.yellow.org/docs/litepaper/yellow-token#token-usage) <a href="#_kw1brkre74t9" id="_kw1brkre74t9"></a>
 
 $YELLOW tokens are locked to be able to open trading channels with other brokers.
 
