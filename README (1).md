@@ -36,7 +36,7 @@ Centralized exchanges usually delegate this duty to "market makers", this servic
 
 #### Uniswap
 
-**short history**
+**Short history**
 
 Uniswap is a decentralized exchange application, launched in 2018 \[@uniswap-history] it's the first DEX to gain a significant traction on Ethereum mainnet by August 2020. Since then many clones and other decentralized applications were launched on many blockchains and used by millions of users to swap tokens, lend/borrow crypto-currencies assets, bridge funds between blockchains and many more use cases.
 
@@ -70,11 +70,11 @@ Nevertheless each country has specific regulations in place applied to financial
 
 #### Lightning Network \[@poon2016bitcoin]
 
-Lightning network is a _layer 2_ solution for Bitcoin network. It was proposed as a solution to the scalability problem of Bitcoin network. It leverages state channel technology to be used as payments channels to perform any number of off-chain transactions. A payment channel is initiated by an on-chain funding transaction, then it's followed by any number of off-chain transactions, finally to commit balances a settlement transaction is performed on-chain; while lightning network introduce real-time fund transfer in blockchain, our protocol leverage the same technology for high frequency trading.
+Lightning network is a _Layer-2_ solution for Bitcoin network. It was proposed as a solution to the scalability problem of Bitcoin network. It leverages state channel technology to be used as payments channels to perform any number of off-chain transactions. A payment channel is initiated by an on-chain funding transaction, then it's followed by any number of off-chain transactions, finally to commit balances a settlement transaction is performed on-chain; while lightning network introduce real-time fund transfer in blockchain, our protocol leverage the same technology for high frequency trading.
 
 #### DyDx \[@juliano2017dydx]
 
-DyDx is a trading platform of derivatives markets. It combines the speed of centralized orderbook and the transparency of decentralized applications. The result is a more secure and faster software architecture; The downside is that it's limited to Ethereum's users.
+DyDx is a trading platform of derivatives markets. It combines the speed of centralized orderbook and the transparency of decentralized applications. The result is a more secure and faster software architecture. The downside is that it's limited to Ethereum's users.
 
 #### Qredo \[@mccuskerqredo]
 
@@ -157,7 +157,7 @@ To open a state-channel, brokers need to agree on an amount of YELLOW tokens to 
 
 #### Remote order matching
 
-When a user order matches an order from a peer-broker, the platform will use the active state-channel with the peer to perform the trade and account the liabilities of one broker to another.
+When a user's order matches an order from a peer-broker, the platform will use the active state-channel with the peer to perform the trade and account the liabilities of one broker to another.
 
 #### Settlement
 
@@ -192,7 +192,7 @@ A clearing house is a financial institution formed to facilitate the exchange se
 
 The clearinghouse enters the picture after a buyer and a seller execute a trade. Its role is to accomplish the steps that finalize, and therefore validate, the transaction. In acting as a middleman, the clearinghouse provides the security and efficiency that is integral to stability in a financial market.
 
-**Facilitates cross brokerage transactions; Yellow network brings this functionality using state channel technology and settlement using a smart contract.**
+**Facilitates cross brokerage transactions; Yellow Network brings this functionality using state channel technology and settlement using a smart contract.**
 
 ### Cross-currency swap
 

@@ -19,7 +19,7 @@ The node software is open-source; however, you need to lock $YELLOW tokens to be
 
 **Access shared liquidity**
 
-* Launch an application on supported hardware and give it a name;&#x20;
-* Lock 250,000 $YELLOW tokens to activate 4 peer-to-peer trading channels;&#x20;
-* Stake collateral to be able to exchange between brokers;&#x20;
+* Launch an application on supported hardware and give it a name.
+* Lock 250,000 YELLOW tokens to activate 4 peer-to-peer trading channels.
+* Stake collateral to be able to exchange between brokers.
 * Access shared order book liquidity of connected peers.

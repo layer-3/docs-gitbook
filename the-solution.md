@@ -14,8 +14,8 @@ Using cutting-edge state channel technology to enable fast trading and reaching 
 
 **For broker startups**
 
-* 1-click install and easy maintenance;
-* Connect to other brokers for profitable trades;
+* 1-click install and easy maintenance.
+* Connect to other brokers for profitable trades.
 * Much easier licensing/regulation as non-custodial entities.
 
 **For retail investors and traders**
@@ -27,16 +27,16 @@ Using cutting-edge state channel technology to enable fast trading and reaching 
 
 **For market makers**
 
-* Shared liquidity;
-* Ultra-high speed settlement;
+* Shared liquidity.
+* Ultra-high speed settlement.
 * Low fees.
 
 #### Benefits&#x20;
 
-* Works worldwide all-in-one toolset: “OpenDAX™ SDK”;
-* A Web3 solution ready for mature retail finance;
-* Real-time inter broker exchange;
-* Near-instant off-chain transactions;
+* Works worldwide All-in-one toolset: “OpenDAX SDK”.&#x20;
+* A Web3 solution ready for mature retail finance.
+* Real-time inter broker exchange.&#x20;
+* Near-instant off-chain transactions.
 * Efficient on-chain transactions.
 
 ![](<.gitbook/assets/Group 13236.png>)
