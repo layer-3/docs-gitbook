@@ -24,3 +24,4 @@
 * [FAQ](faq.md)
 * [Design](design.md)
 * [Finance](finance-1.md)
+* [Conclusions](conclusions.md)
