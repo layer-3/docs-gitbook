@@ -12,4 +12,4 @@ Our aim is to have real decentralized trading, bringing all of today’s parties
 
 Yellow Network embodies a decentralized Layer-3 peer-to-peer mesh exchange network used for communicating and trading between brokers and aggregating liquidity of connected nodes.
 
-Powered by state channels technology, it enables ultra-high-performance settlement between brokers on top of a blockchain. This solution also enables cross-chain trading without the need to bridge tokens.
+Powered by state channel technology, it enables ultra-high-performance settlement between brokers on top of a blockchain. This solution also enables cross-chain trading without the need to bridge tokens.
