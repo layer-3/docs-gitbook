@@ -22,3 +22,4 @@
 * [Future Release](future-release.md)
 * [Whitepaper](<README (1).md>)
 * [FAQ](faq.md)
+* [Design](design.md)
