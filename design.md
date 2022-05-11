@@ -90,3 +90,4 @@ The broker can connect to many custodians solutions, each custody solution have 
 | Cross-chain      | Using bridges, extremely high risk and slow                                         | Through layer-3 Virtualization, off-chain assets can remain in cold wallets but traded at low costs |
 | Decentralization | <p>CEX: Are centralized in a data center.<br>DEX: Are located on a single chain</p> | High, True Decentralization of business, data centers, and chains                                   |
 
+Table: Benefits of solution
