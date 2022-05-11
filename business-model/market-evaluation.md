@@ -20,7 +20,7 @@ We are convinced that Crypto Finance should learn and leverage from the legacy o
 
 #### Financial Forecast & Target MarketCap[​](https://www.yellow.org/docs/litepaper/market#financial-forecast--target-marketcap) <a href="#_cre4qvtdgwnv" id="_cre4qvtdgwnv"></a>
 
-Crypto Trading Volume (datasource: coinmarketcap)
+Crypto Trading Volume (datasource: coinmarketcap).
 
 | **Year** | **Volume**           | **YoY**         |
 | -------- | -------------------- | --------------- |
@@ -68,7 +68,7 @@ We actively develop the technology stack around the Yellow Network, as well as p
 
 This B2B2C business model gives us a variety of revenue streams to sustain operations, marketing, R\&D:
 
-1. Sale of tokens
+1. Sale of tokens.
 2. Referral from partners – we are connecting incoming leads (brokers/startups) with our network of partners for customization, integrations, taking a referral share from profits they gain.
 3. Integrations – we work to improve the tech-stack from our R\&D funds, but some of the integrations will be provided on a paid basis.
 4. Consultations – our organization helps companies/entrepreneurs jumpstart their business, connecting institutions and partners.
