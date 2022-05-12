@@ -53,7 +53,7 @@ We currently have a number of brokers in the alpha testing of the network.
 
 Every month, we receive 160 new customer inquiries for creating their brokerage.
 
-Also, we have about 20 partner distributors who have their stream of customers. They can install the appliance that is activated when they stake enough YELLOW tokens.
+Also, we have about 20 partner distributors who have their stream of customers. They can install the appliance that is activated when they stake enough $YELLOW tokens.
 
 **❓ How do you plan to share revenues with Yellow network users? Where do the fees go?**
 
@@ -79,11 +79,11 @@ Yes, correct.
 
 **❓ What benefits do YELLOW token holders get?**
 
-* Ability to stake YELLOW token to run a node;
+* Ability to stake $YELLOW token to run a node;
 * Ability to stake token for liquidity mining (collecting fees going through the channel);
 * DAO is possible depending on US regulations (DAO risks qualifying the token to security, which we don’t mind, but security token can’t be listed on most CEX, so it's really a gray area these days);
 * Social activity such as influencing articles and projects on [yellow.com](http://yellow.com) launchpad;
-* Paying fees for liquidity, and reducing these fees by the number of YELLOW tokens in the hold.
+* Paying fees for liquidity, and reducing these fees by the number of $YELLOW tokens in the hold.
 
 **❓ Do you have plans to move to the DAO model (as a community-driven model)?**
 
@@ -109,7 +109,7 @@ State channels are faster, not limited to single side-chains; they also enable c
 
 **❓ “Liquidity providers take a share of profits from trading fees.”—Is everything happening on-chain? How do you manage that with state channels?**
 
-Funding, opening state channels is on-chain. Trading is performed off-chain (both local trades on Broker’s node and P2P trades). Brokers deposit collateral and YELLOW tokens, so they can exchange the liquidity then, and the provider collects the fees.
+Funding, opening state channels is on-chain. Trading is performed off-chain (both local trades on Broker’s node and P2P trades). Brokers deposit collateral and $YELLOW tokens, so they can exchange the liquidity then, and the provider collects the fees.
 
 **❓ What Layer-1s are you connected to and planning to connect to?**
 
@@ -125,7 +125,7 @@ Finex nodes can run stand-alone with non-network orderbooks.
 
 &#x20;**❓ Is the Finex network based on blockchain architecture or other distributed architecture?**
 
-Using LibP2P (think ipfs) it is a new network with gateways being state channels Smart-Contracts on each Layer1,2
+Using LibP2P (think ipfs) it is a new network with gateways being state channels Smart-Contracts on each Layer-1,2
 
 &#x20;**❓ If the Finex network crashes, how to ensure the security of users’ assets based on this architecture?**
 
