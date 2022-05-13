@@ -100,3 +100,5 @@ List of networks to be supported later:
 **Yellow Network:** state channel; P2P network
 
 **Yellow nodes:** Jamstack, Golang, Next.js, gRPC
+
+![](<../.gitbook/assets/Group 13631.png>)
