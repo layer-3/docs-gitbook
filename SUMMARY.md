@@ -10,7 +10,7 @@
   * [Smart Clearing Contract](network-architecture/smart-clearing-contract.md)
   * [Broker Smart Contract](network-architecture/broker-smart-contract.md)
   * [Broker Node](network-architecture/broker-node.md)
-  * [Custody layer](network-architecture/custody-layer.md)
+  * [Custody Layer](network-architecture/custody-layer.md)
 * [Finance](finance/README.md)
   * [Smart Clearing House](finance/smart-clearing-house.md)
   * [Cross Currency Swaps](finance/cross-currency-swaps.md)
