@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Background](background.md)
-* [The problem](the-problem.md)
+* [The Problem](the-problem.md)
 * [The Solution](the-solution.md)
 * [Design](design.md)
 * [Network Architecture](network-architecture/README.md)

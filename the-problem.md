@@ -1,4 +1,8 @@
-# The problem
+---
+description: What market challenges Yellow Network is addressing.
+---
+
+# The Problem
 
 ### The Problem <a href="#_udybe2pc46jg" id="_udybe2pc46jg"></a>
 
