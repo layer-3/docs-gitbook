@@ -18,7 +18,7 @@
 * [Business model](business-model/README.md)
   * [Economics](business-model/economics.md)
   * [Token Utility](business-model/token-utility.md)
-  * [Market evaluation](business-model/market-evaluation.md)
+  * [Market Evaluation](business-model/market-evaluation.md)
 * [Whitepaper](whitepaper/README.md)
   * [Fees](whitepaper/fees.md)
 * [Future Release](future-release.md)
