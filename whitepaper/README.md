@@ -91,35 +91,33 @@ Running an exchange with many markets imposes to maintain orderbooks with tight 
 
 Centralized exchanges usually delegate this duty to "market makers", this service can be very expensive and still the exchange might have to provide a big part of the liquidity to be injected in the orderbook.
 
-#### Uniswap
-
-**short history**
+### Uniswap S**hort History**
 
 Uniswap is a decentralized exchange application, launched in 2018 \[@uniswap-history] it's the first DEX to gain a significant traction on Ethereum mainnet by August 2020. Since then many clones and other decentralized applications were launched on many blockchains and used by millions of users to swap tokens, lend/borrow crypto-currencies assets, bridge funds between blockchains and many more use cases.
 
 Uniswap paved the way of DeFi (Decentralized Finance).
 
-**Security, Auditability**
+#### **Security, Auditability**
 
 It brought many advantages compared to centralized exchanges. The exchange software is fully implemented in smart-contracts that are deployed on the blockchain, thus anyone can read how it works, many audits are performed by independents parties, many DeFi applications were left with breaches and funds were exploited, but over time the security of those applications tends to be proven.
 
-**Automatic market making**
+#### **Automatic market making**
 
 Anyone can provide liquidity to Uniswap markets (AKA pools), and receive a revenue share from fees collected during trading (AKA swaps). Moreover the price of assets is managed automatically, every trade impacts the price up or down depending if it's a ask or a bid, since the version one the protocol evolved to be more resilient in v2 and to use more effectively the liquidity in v3 \[@angeris2020improved].
 
 Uniswap protocol provided an elegant solution to the problem of market making and access to liquidity.
 
-**Performances**
+#### **Performances**
 
 The success of those applications lead to traffic jams in Ethereum network, cost of transactions have been growing to reach unsustainable levels. DEX and DeFi application are facing the limitation of blockchains throughput. Many projects claim to solve the problem of blockchains scalibity, some drastically improve the throughput of transaction like Polygon or Solana.
 
-**Front running bots**
+#### **Front running bots**
 
 Transparency of blockchain transactions and the fact that Ethereum order transactions by gas price exposes users of DEXes to front-run bots \[@daian2019flash].
 
 Such bots are monitoring the blockchain and the in-memory transactions pool containing (transactions not yet mined in a block) for incoming swap transactions. They check slippage tolerance allowed by the user, calculate the cost of front-running transactions, when profitable they execute a transaction just before the user by setting a higher gas price and finally a transaction just after the user to take the profit.
 
-**Comply with local regulations**
+#### **Comply with local regulations**
 
 Decentralized application are accessible by everyone on the planet the same way, without any difference between users. This feature allows anyone to access crypto-currencies wallets and use those solutions, this is a very powerful feature which gives access to people who can't open a bank account to crypto-currencies and decentralized finance.
 
