@@ -1,10 +1,10 @@
 # System Overview
 
-### The product <a href="#_qrz16kmo4nrn" id="_qrz16kmo4nrn"></a>
+### The Product <a href="#_qrz16kmo4nrn" id="_qrz16kmo4nrn"></a>
 
-#### Overview[​](https://www.yellow.org/docs/litepaper/product#overview) <a href="#_9lqr4nsnpms7" id="_9lqr4nsnpms7"></a>
+### Overview[​](https://www.yellow.org/docs/litepaper/product#overview) <a href="#_9lqr4nsnpms7" id="_9lqr4nsnpms7"></a>
 
-#### **The broker node** <a href="#_88o83bna5dhs" id="_88o83bna5dhs"></a>
+#### **The Broker Node** <a href="#_88o83bna5dhs" id="_88o83bna5dhs"></a>
 
 Is built with OpenDAX™ WEB SDK which offers reusable UI components for common exchange platform interfaces, including widgets.
 
@@ -12,7 +12,7 @@ All components come with a simple, modern design and are customizable.
 
 The library leverages React state management tools such as Providers, Hooks, and Utils to connect to the OpenDAX™ WEB SDK for JavaScript and pass data to the UI layer, simplifying state synchronization.
 
-#### **Demo version** <a href="#_thuljtxfvgkg" id="_thuljtxfvgkg"></a>
+#### **Demo Version** <a href="#_thuljtxfvgkg" id="_thuljtxfvgkg"></a>
 
 ****[alpha.yellow.org](http://alpha.yellow.org)
 
@@ -36,7 +36,7 @@ A great fit for exchange businesses, allows deep customization.
 * Secure, customizable, and easily localized;
 * Ultra-high-speed performance.
 
-**Matching engine\*\***[**​**](https://www.yellow.org/docs/litepaper/product#matching-engine)
+**Matching Engine\*\***[**​**](https://www.yellow.org/docs/litepaper/product#matching-engine)
 
 Each broker has their own matching engine, called “Finex”. It is a high performance trading engine of the OpenDAX™ crypto exchange software stack. It is written in GO language for high throughput of orders and trades. The Finex engine is the core component of the trading platform. It accepts or rejects orders, adding them to the order book, processes trades when orders match, and stores the results in the database. It prevents users from spending more funds than available on their balance.
 
@@ -59,7 +59,7 @@ Brokers can close the trading channel or trigger a settlement process at any tim
 
 $YELLOW tokens can be unlocked 30 days after the last trade conducted on the trading channel.
 
-#### Multi-chain support <a href="#_o8p3zt8mxh94" id="_o8p3zt8mxh94"></a>
+#### Multi-Chain Support <a href="#_o8p3zt8mxh94" id="_o8p3zt8mxh94"></a>
 
 _Pluggable custodians solutions:_
 
@@ -85,17 +85,17 @@ List of networks to be supported later:
 * Polkadot
 * Binance Smart Chain
 
-**Currencies and supported**[**​**](https://www.yellow.org/docs/litepaper/product#currencies-and-markets-supported) **markets**
+**Currencies and Supported**[**​**](https://www.yellow.org/docs/litepaper/product#currencies-and-markets-supported) **Markets**
 
 * The list of supported currencies is independent for each broker. The broker has an ability to add currencies and appropriate markets at his own discretion from the Admin panel.
 * P2P trading is available to brokers only for approved markets with assets matching from both sides.
 
-**Decentralized support**[**​**](https://www.yellow.org/docs/litepaper/product#decentralized-support)
+**Decentralized Support**[**​**](https://www.yellow.org/docs/litepaper/product#decentralized-support)
 
 * Each broker operates as an independent exchange and is free to provide customer care for his end-users.
 * Best practice is to use Zendesk-like systems for operating activities.
 
-### **Technologies Used and Created by the Project** <a href="#_5c6uz4n9qot6" id="_5c6uz4n9qot6"></a>
+### **Technologies Used and Created by Yellow** <a href="#_5c6uz4n9qot6" id="_5c6uz4n9qot6"></a>
 
 **Yellow Network:** state channel; P2P network
 
