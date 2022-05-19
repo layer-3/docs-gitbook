@@ -73,7 +73,7 @@ This B2B2C business model gives us a variety of revenue streams to sustain opera
 
 #### Cost-Revenue Structure for Brokers[​](https://www.yellow.org/docs/litepaper/business-model#cost-revenue-structure-for-brokers) <a href="#_8iwurl3m1rx8" id="_8iwurl3m1rx8"></a>
 
-Our solution suggests significant cost reduction of R\&D as well as Infrastructure maintenance costs, allowing businesses inside the Yellow Network to focus on marketing and growth. It is also enabling new revenue streams.
+Our solution suggests significant cost reduction of R\&D as well as Infrastructure maintenance costs, allowing businesses inside Yellow Network to focus on marketing and growth. It is also enabling new revenue streams.
 
 | **Costs**                        | **Revenue Streams**             |
 | -------------------------------- | ------------------------------- |
