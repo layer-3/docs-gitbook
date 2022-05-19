@@ -58,6 +58,6 @@ This greatly **reduces the risk of overexposure** and helps to **streamline liqu
 
 The Clearing House can **accurately report order flow data to regulators** and thus **lower the reporting burden for traders and brokers** while at the same time **increasing the safety and transparency** of the market place, as well as helping to **identify and exclude bad actors**.&#x20;
 
-_\[INSERT: Clearing House graphic (in preparation)]_
+![](<../.gitbook/assets/Yellow\_Role of a Clearinghouse\_in Crypto\_infographic.jpg>)
 
 **Yellow Network brings these functionalities by using cutting edge state channel technology and settlement via a smart contracts.**

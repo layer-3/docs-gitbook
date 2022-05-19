@@ -34,4 +34,4 @@ Crypto enthusiasts and active exchange platform customers can install a liquidit
 
 #### **B2B services**
 
-$YELLOW tokens will also be used by businesses to get services on [yellow.org](http://yellow.org).
+$YELLOW tokens will also be used by businesses to get services on [yellow.org](http://yellow.org/).

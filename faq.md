@@ -99,7 +99,7 @@ Similar to bitcoin rewards, trading mining only brings the fees, but no addition
 
 **❓ What entity will sell the tokens?**
 
-[Layer-3 Foundation](https://www.layer3.foundation).
+[Layer-3 Foundation](https://www.layer3.foundation/).
 
 ### Product / Architecture
 
@@ -157,7 +157,7 @@ Watch Tower is auditing transactions between brokers and managing disputes autom
 
 **❓ When I use** [**Yellow.com**](http://yellow.com) **to deposit ETH, an ETH address is generated on the deposit page. If I deposit ETH to this address, what will happen later? When will the deposit amount appear on the assets page?**
 
-We advise you to test it yourself at [alpha.yellow.org](https://alpha.yellow.org).
+We advise you to test it yourself at [alpha.yellow.org](https://alpha.yellow.org/).
 
 **❓ Peatio is a previous generation of CEX software that has not been maintained for 6 years. During your developing process, which features did you keep, which were removed, which were added?**
 

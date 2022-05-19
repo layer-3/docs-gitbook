@@ -55,7 +55,7 @@ The Yellow Network builds on the development work of the current system by pooli
 
 Scaling is perhaps the most significant roadblock to the widespread usage and adoption of blockchains and cryptocurrency today. While some programs are thriving today, the majority are still too slow and costly for average consumers.
 
-[State channels](https://statechannels.org) improve public blockchain throughput by reducing the computational load placed on nodes when processing and storing transactions. This makes it easy to run a node, which decentralizes the process of certifying the miners' work.
+[State channels](https://statechannels.org/) improve public blockchain throughput by reducing the computational load placed on nodes when processing and storing transactions. This makes it easy to run a node, which decentralizes the process of certifying the miners' work.
 
 State channels, meanwhile, lower the costs associated with using the blockchain network. Rather than paying transaction fees, users only pay for gas when they open and close a channel. Additionally, state channels aid in the preservation of user privacy. Transactions within a channel are known only to the channel's members. This contrasts with transactions on the Ethereum blockchain, which record each transaction in a publicly auditable ledger. Finally, transactions within state channels achieve instantaneous completion. Users do not need to wait for each transaction to be confirmed on the blockchain, as each signed transaction complies with the network's regulations. This creates a more seamless user experience and more closely resembles how popular web applications operate now.
 

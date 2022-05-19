@@ -14,7 +14,7 @@ The library leverages React state management tools such as Providers, Hooks, and
 
 #### **Demo Version** <a href="#_thuljtxfvgkg" id="_thuljtxfvgkg"></a>
 
-****[alpha.yellow.org](http://alpha.yellow.org)
+****[alpha.yellow.org](http://alpha.yellow.org/)
 
 **Functionality**
 
