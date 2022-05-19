@@ -30,7 +30,7 @@ The node software is open-source; however, you need to lock $YELLOW tokens to be
 
 **Token Public Round Market Cap (Fully Diluted)**: $500,000,000
 
-**Token release:** July-August 2022
+**Token release:** TBA
 
 **Project Valuation:** $20M at Seed price
 
@@ -66,7 +66,7 @@ The initial supply of 40M $YELLOW tokens will be minted in Q3 2022, which will a
 
 #### Seed and Influencer funding:
 
-* 600 Million YELLOW tokens
+* 600 Million $YELLOW tokens
 * December 2021
 
 **Private sale (4 rounds) and Strategic sale:**
@@ -77,7 +77,7 @@ The initial supply of 40M $YELLOW tokens will be minted in Q3 2022, which will a
 **Public sale:**
 
 * 100 Million $YELLOW tokens
-* July-August 2022
+* TBA \[Q3-Q4, 2022]
 
-The final unlock of YELLOW tokens will happen in January 2027. Only community and development funds would contain YELLOW tokens based on the adoption and community activities.
+The final unlock of $YELLOW tokens will happen in January 2027. Only community and development funds would contain $YELLOW tokens based on the adoption and community activities.
 
