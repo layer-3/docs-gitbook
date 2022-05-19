@@ -60,6 +60,4 @@ The Clearing House can **accurately report order flow data to regulators** and t
 
 ![](<../.gitbook/assets/Yellow\_Role of a Clearinghouse in Crypto\_infographic.jpg>)
 
-![](<../.gitbook/assets/Yellow\_Role of a Clearinghouse\_in Crypto\_infographic.jpg>)
-
 **Yellow Network brings these functionalities by using cutting-edge state channel technology and settlement via smart contracts.**
