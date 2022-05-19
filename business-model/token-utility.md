@@ -50,11 +50,11 @@ The initial supply of 40M $YELLOW tokens will be minted in Q3 2022, which will a
 | Public     | 10 M    | $50,000,000 | 0 mo  | 12 mo |
 | Total      | 2 000 M |             |       |       |
 
-![](<../.gitbook/assets/Group 13634.png>)
+![](<../.gitbook/assets/Group 13634 (1).png>)
 
 ### **Token Distribution and Roadmap**
 
-![](<../.gitbook/assets/Group 13630.png>)
+![](<../.gitbook/assets/Group 13630 (1).png>)
 
 * 30% will be dedicated to ecosystem projects development (Community Fund)**;**
 * Funds from that pool will be allocated based on community proposals 15% will be allocated for growth-hacking rewards;&#x20;
