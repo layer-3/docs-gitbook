@@ -2,7 +2,7 @@
 
 ### Traditional Clearing House Definition
 
-A clearing house, in traditional finance terms, is an independent institution formed to facilitate the exchange of securities, commodities, or derivatives. The clearing house stands between two broker firms by taking the opposite side of each party and thus reduces the risk of either party to honor its trade settlement obligations.
+A clearing house, in traditional finance terms, is an independent institution formed to facilitate the exchange of securities, commodities, or derivatives. The clearing house stands between two broker firms by taking the opposite side of each party and thus reduces the risk of either party honoring its trade settlement obligations.
 
 Yellow leverages Layer-2 chains for a clearing house implementation on-chain.
 
@@ -40,11 +40,11 @@ It further allows for analytical data such as market depth, flows, trends, and o
 
 Despite the stakeholders in Crypto being slightly different from traditional finance, the introduction of an independent Layer-3 clearinghouse helps to mitigate the problems of;
 
-_**Market Fragmentation**_ by connecting smaller brokers, market makers and exchanges cross-chain and cross-network
+_**Market Fragmentation**_ by connecting smaller brokers, market makers, and exchanges cross-chain and cross-network
 
 _**Market Depth & Liquidity** _ by aggregating liquidity and order flow between all participants
 
-_**Conflict of Interest**_ whereby many traditional crypto exchanges not only act as market place but at the same time act as market maker, liquidity provider and custodian.
+_**Conflict of Interest**_ whereby many traditional crypto exchanges not only act as a marketplace but at the same time act as market makers, liquidity providers, and custodians.
 
 Overall the introduction of a dedicated Crypto Clearinghouse will de-risk the existing landscape and open the market for new participants while at the same time comforting regulators.
 
@@ -56,8 +56,10 @@ By holding **margin accounts** with the clearinghouse, brokers and exchanges can
 
 This greatly **reduces the risk of overexposure** and helps to **streamline liquidity management** **and capital efficiency**.&#x20;
 
-The Clearing House can **accurately report order flow data to regulators** and thus **lower the reporting burden for traders and brokers** while at the same time **increasing the safety and transparency** of the market place, as well as helping to **identify and exclude bad actors**.&#x20;
+The Clearing House can **accurately report order flow data to regulators** and thus **lower the reporting burden for traders and brokers** while at the same time **increasing the safety and transparency** of the marketplace, as well as helping to **identify and exclude bad actors**.&#x20;
+
+![](<../.gitbook/assets/Yellow\_Role of a Clearinghouse in Crypto\_infographic.jpg>)
 
 ![](<../.gitbook/assets/Yellow\_Role of a Clearinghouse\_in Crypto\_infographic.jpg>)
 
-**Yellow Network brings these functionalities by using cutting edge state channel technology and settlement via a smart contracts.**
+**Yellow Network brings these functionalities by using cutting-edge state channel technology and settlement via smart contracts.**
