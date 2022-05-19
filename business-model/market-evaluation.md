@@ -1,4 +1,4 @@
-# Market evaluation
+# Market Evaluation
 
 ### Market Evaluation & Challenges <a href="#_mf2skwjy4qzm" id="_mf2skwjy4qzm"></a>
 
@@ -6,11 +6,7 @@
 
 We’ve been powering 150+ fintech businesses and expect blockchain-powered finance to grow exponentially. Crypto-trading is disruptive but how does it stand against traditional finance?
 
-| **Wall Street Finance**                                                                                                                   | **Crypto Finance**                                                                                                         |
-| ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| Combined market cap of the top-20 stock exchange operators is $115.7 Trillion.                                                            | Combined market cap is about $1.5 Trillion.                                                                                |
-| FINRA oversees more than 624,000 brokers across the US.                                                                                   | Brokers do not really exist in crypto, although there are about 400 autonomous exchanges.                                  |
-| Separation of responsibilities between custodian banks, brokers, and exchanges, ensures investor protection. Legal framework is in place. | Crypto exchanges act as all-in-one unlicensed bank, broker, and exchange with no possible auditability and accountability. |
+![](<../.gitbook/assets/Group 13511 (1).png>)
 
 To overgrow The Wall Street, crypto should use and reimagine the competitor’s strengths.
 
@@ -58,7 +54,7 @@ Crypto trading market is already large, reaching $60T volume in 2021 (with 30% Y
 
 #### Our Partners <a href="#_2qsyp119etoy" id="_2qsyp119etoy"></a>
 
-![](<../.gitbook/assets/Group 13629.png>)
+![](<../.gitbook/assets/Group 13633.png>)
 
 We are currently receiving more than 50 leads/applications per week with an average budget of \~$250K.
 
