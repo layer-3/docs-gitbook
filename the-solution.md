@@ -57,4 +57,10 @@ Yellow Network also ensures the security of the users' funds by having each brok
 
 #### **For Brokers**
 
-Today we see hacks everywhere, and we constantly witness how various bottlenecks and flaws lead to huge token steals. State channel technology proves effective to fight this dangerous trend. The funds belong to either a state channel or the user's wallet. On both sides, it is impossible to break into the wallet without the secure private key or avoid two-side confirmation for the final status update on the state channel.
+Today we see hacks occurring everywhere, and we constantly witness how various bottlenecks and flaws lead to huge token steals. State channel technology proves effective in fighting this dangerous trend. The funds belong to either a state channel or the user's wallet. On both sides, it is impossible to break into the wallet without the secure private key or avoid two-side confirmation for the final status update on the state channel.
+
+#### For End-Users&#x20;
+
+Yellow Network is non-custodial; end-users can deposit funds to the smart contract with a hard/software wallet; this resolves major end-users concerns about improper funds storage and the safety of their assets.&#x20;
+
+The security of the end-users funds is also ensured by the amount of collateral funds locked with Yellow tokens. As soon as any fraud or malicious activity affecting end-users funds is detected on the broker's side - the dispute system will ensure the return of assets to their rightful owners.
