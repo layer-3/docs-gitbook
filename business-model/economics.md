@@ -23,15 +23,29 @@ Sample bellow:&#x20;
 | -------------------- | --------------------- |
 | 250.000              | 4                     |
 | 500.000              | 8                     |
-| 1.000.000            | 12                    |
+| 1.000.000            | 16                    |
 
 #### B. The collateral
 
 Each broker has to stack collateral in order to create a trustable relationship between the entities (Liquidity Provider) and avoid any dispute.
 
-The collateral is a caution - insurance - which ensures that the broker will pay each LP the trading fees amount due when the settlement time is coming during the clearing process.
+We define two main layers of collateral, held in separate wallets;
 
-The amount of the&#x20;
+1\) Access Collateral:&#x20;
+
+This represents a consistent minimum balance of yellow tokens to be held as outlined under A which defines the number of open state channels the broker can access.&#x20;
+
+2\) Operating collateral:
+
+The operating collateral is in addition to the access collateral and will be used to settle market taker and market maker fees on an ongoing basis. The collateral ensures that the broker is able to pay each LP the rewards due when during the clearing process.
+
+Market Maker Fees; collateral account receives liquidity provider rewards that increase the collateral
+
+Market Taker Fees; collateral account pays rewards to liquidity providers (LP), which reduce the collateral on held in the wallet
+
+The separation of collateral wallets ensures transparency and facilitates accounting and state channel tiering.
+
+Additional collateral layers, such as collateral for margin trading, will be introduced at a later stage.
 
 #### C. Opendax v4 Licence
 
@@ -39,7 +53,7 @@ Basically, using Opendax v4 Exchange Software is 100% free of charge if you do n
 
 By using it without connection, the trades and orders made passing by your exchange will still - and be executed - into your own liquidity.
 
-#### D. Trading fees
+#### D. Marker fees
 
 The system are collecting fees for each trade executed using the network.
 
