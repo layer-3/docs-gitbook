@@ -8,22 +8,22 @@ description: Yellow has created a fair-fully economic model
 
 #### A. Joining the Network
 
-There are two ways to join the Yellow Network.
+There are two ways to join Yellow Network.
 
-* By using our Opendax v4 Exchange software.
+* By using our OpenDAX v4 Exchange software.
 * By connecting your own exchange engine through Yellow Network's API.
 
 Both of those solutions can have direct access to the Yellow Network.
 
-To be included in the Yellow Network, the exchange will need to have and stack at a minimum amount of 250.000 Yellow Tokens ($YT), which will allow the creation of 4 peer-to-peer trading channels and access to their liquidity pool.
+To be included in Yellow Network, the exchange will need to have and stack a minimum amount of 250,000 $YELLOW tokens, which will allow the creation of 4 peer-to-peer trading channels and access to their liquidity pool.
 
 Sample bellow:&#x20;
 
-| Yellow Token stacked | Opened state channels |
-| -------------------- | --------------------- |
-| 250.000              | 4                     |
-| 500.000              | 8                     |
-| 1.000.000            | 16                    |
+| $YELLOW token stacked | Opened state channels |
+| --------------------- | --------------------- |
+| 250.000               | 4                     |
+| 500.000               | 8                     |
+| 1.000.000             | 16                    |
 
 #### B. The collateral
 
@@ -33,7 +33,7 @@ We define two main layers of collateral, held in separate wallets;
 
 1\) Access Collateral:&#x20;
 
-This represents a consistent minimum balance of yellow tokens to be held as outlined under A which defines the number of open state channels the broker can access.&#x20;
+This represents a consistent minimum balance of $YELLOW tokens to be held as outlined under A which defines the number of open state channels the broker can access.&#x20;
 
 2\) Operating collateral:
 
@@ -41,17 +41,17 @@ The operating collateral is in addition to the access collateral and will be use
 
 Market Maker Fees; collateral account receives liquidity provider rewards that increase the collateral
 
-Market Taker Fees; collateral account pays rewards to liquidity providers (LP), which reduce the collateral on held in the wallet
+Market Taker Fees; collateral account pays rewards to liquidity providers (LP), which reduce the collateral on hold in the wallet
 
 The separation of collateral wallets ensures transparency and facilitates accounting and state channel tiering.
 
 Additional collateral layers, such as collateral for margin trading, will be introduced at a later stage.
 
-#### C. Opendax v4 Licence
+#### C. OpenDAX v4 Licence
 
-Basically, using Opendax v4 Exchange Software is 100% free of charge if you do not join the Yellow Network ([Point A)](economics.md#a.-joining-the-network).&#x20;
+Basically, using Opendax v4 Exchange Software is 100% free of charge if you do not join the Yellow Network [(Point A)](economics.md#a.-joining-the-network).&#x20;
 
-By using it without connection, the trades and orders made passing by your exchange will still - and be executed - into your own liquidity.
+By using it without connection, the trades and orders made passing by your exchange will still**—**and be executed**—**into your own liquidity.
 
 #### D. Marker fees
 
@@ -59,9 +59,9 @@ The system are collecting fees for each trade executed using the network.
 
 The fees will be split in the following way&#x20;
 
-* 15% for the clearinghouse;
-* 15% converted into Yellow Token to burned;
-* 70% will got to the brokers / market-makers;
+* 15% for the clearing house;
+* 15% converted into $YELLOW token to burned;
+* 70% will go to the brokers / market-makers;
 
 #### Why burning tokens? (internal note = to be included in the trading fees part)
 
