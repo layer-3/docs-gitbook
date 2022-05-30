@@ -24,8 +24,6 @@ The node software is open-source; however, you need to lock $YELLOW tokens to be
 
 **Initial Circulation Supply:** 40,000,000 (0.4% of max supply)
 
-**Token Public Sale Price:** 0.050$
-
 **Initial Circulation Supply Market Cap:** $2,000,000 (initial unlock \* public price)
 
 **Token Public Round Market Cap (Fully Diluted)**: $500,000,000
