@@ -63,27 +63,28 @@ $YELLOW tokens can be unlocked 30 days after the last trade conducted on the tra
 
 _Pluggable custodians solutions:_
 
-* Qredo;
-* Gnosis safe;
-* Cobo;
-* Fireblocks.
+* [Qredo](https://www.qredo.com/)
+* [Gnosis safe](https://gnosis-safe.io/)
+* [Cobo](https://cobo.com/)
+* [Fireblocks](https://www.fireblocks.com/)
 
 **KYC (Know Your Customer)**
 
-* End-user identity verification procedure is required to avoid participating in money laundering and terrorism financing activities;
-* Each broker has the ability to change and integrate his KYC partner or solution.
+* End-user identity verification procedure is required to avoid participating in money laundering and terrorism financing activities
+* Each broker has the ability to change and integrate his KYC partner or solution
 
 **Blockchains**[**​**](https://www.yellow.org/docs/litepaper/product#blockchains)
 
 List of supported blockchain networks:
 
 * Ethereum
+* Polygon
+* Binance Smart Chain
 
 List of networks to be supported later:
 
 * Solana
 * Polkadot
-* Binance Smart Chain
 
 **Currencies and Supported**[**​**](https://www.yellow.org/docs/litepaper/product#currencies-and-markets-supported) **Markets**
 

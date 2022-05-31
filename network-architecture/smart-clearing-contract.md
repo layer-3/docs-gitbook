@@ -1,2 +1,0 @@
-# Smart Clearing Contract
-
