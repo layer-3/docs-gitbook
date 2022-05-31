@@ -15,19 +15,19 @@ There are two ways to join Yellow Network.
 
 Both of those solutions can have direct access to the Yellow Network.
 
-To be included in Yellow Network, the exchange will need to have and stake a minimum amount of 250,000 $YELLOW tokens, which will allow the creation of 4 peer-to-peer trading channels and access to their liquidity pool.
+To be included in Yellow Network, the exchange will need to have and stack a minimum amount of 250,000 $YELLOW tokens, which will allow the creation of 4 peer-to-peer trading channels and access to their liquidity pool.
 
 Sample bellow:&#x20;
 
-| $YELLOW token staked | Opened state channels |
-| -------------------- | --------------------- |
-| 250.000              | 4                     |
-| 500.000              | 8                     |
-| 1.000.000            | 16                    |
+| $YELLOW token stacked | Opened state channels |
+| --------------------- | --------------------- |
+| 250.000               | 4                     |
+| 500.000               | 8                     |
+| 1.000.000             | 16                    |
 
 #### B. The collateral
 
-Each broker has to stake collateral in order to create a trustable relationship between the entities (Liquidity Provider) and avoid any dispute.
+Each broker has to stack collateral in order to create a trustable relationship between the entities (Liquidity Provider) and avoid any dispute.
 
 We define two main layers of collateral, held in separate wallets;
 
@@ -43,7 +43,7 @@ Market Maker Fees; collateral account receives liquidity provider rewards that i
 
 Market Taker Fees; collateral account pays rewards to liquidity providers (LP), which reduce the collateral on hold in the wallet
 
-The separation of collateral wallets ensures transparency and facilitates accounting and state channel tearing-down.
+The separation of collateral wallets ensures transparency and facilitates accounting and state channel tiering.
 
 Additional collateral layers, such as collateral for margin trading, will be introduced at a later stage.
 
