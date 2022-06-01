@@ -9,7 +9,6 @@
   * [System Overview](network-architecture/system-overview.md)
   * [Custody Layer](network-architecture/custody-layer.md)
   * [Smart Clearing Protocol](network-architecture/smart-clearing-contract.md)
-  * [Network node](network-architecture/broker-node.md)
 * [Finance](finance/README.md)
   * [Smart Clearing House](finance/smart-clearing-house.md)
   * [Cross Currency Swaps](finance/cross-currency-swaps.md)
