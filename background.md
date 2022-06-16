@@ -1,6 +1,6 @@
 # Background
 
-Cryptocurrency trading is now a reality witnessing a fast user adoption rate worldwide. Since Bitcoin, many alternative projects have been developed in the space. Users now have a broad choice of different blockchains and many decentralized applications. New challenges appear to simplify the users' journey in this wild wide web 3.0. bridges are an example of technologies brought to interconnect blockchains but suffer from a lack of decentralization, an ERC20 native connection from one to another chain, and a need for significant liquidity for many tokens on every chain to satisfy the users' demand.
+Cryptocurrency trading is now a reality witnessing a massive user adoption rate worldwide. Since Bitcoin, many alternative projects have been developed in the space. Users now have a broad choice of different blockchains and many decentralized applications. New challenges appear to simplify the users' journey in this wild wide web 3.0. Bridges are an example of technologies brought to interconnect blockchains but suffer from a lack of decentralization, an ERC20 native connection from one to another chain, and a need for significant liquidity for many tokens on every chain to satisfy the users' demand.
 
 ### Related Work
 
@@ -42,31 +42,31 @@ Uniswap protocol provided an elegant solution to the problem of market making an
 
 **Performances**
 
-The success of those applications has led to congestion in the Ethereum network, cost of transactions has been increasing, reaching unsustainable levels. DEX and DeFi applications are facing the limitation of blockchains throughput. Many projects claim to solve the problem of blockchain scalability, and some drastically improve the throughput of transactions like Polygon or Solana.
+The success of those applications has led to congestion in the Ethereum network, cost of transactions has been increasing, reaching unsustainable levels. DEXes and other DeFi applications are facing the limitation of blockchains throughput. Many projects claim to solve the problem of blockchain scalability, and some drastically improve the throughput of transactions like Polygon or Solana.
 
 **Front running bots**
 
 Transparency of blockchain transactions and the fact that Ethereum orders transactions by gas price expose users of DEXes to front-run bots. \[@daian2019flash].&#x20;
 
-Such bots are monitoring the blockchain and the in-memory transactions pool containing (transactions not yet mined in a block) for incoming swap transactions. They check the slippage tolerance allowed by the user and calculate the cost of front-running transactions. When profitable, they execute a transaction just before the user by setting a higher gas price, and finalize this transaction just after the user takes the profit.
+Such bots are monitoring the blockchain and the in-memory transactions pool (containing transactions not yet mined in a block) for incoming swap transactions. They check the slippage tolerance allowed by the user and calculate the cost of front-running transactions. When profitable, they execute a transaction just before the user by setting a higher gas price, and finalize this transaction just after the user takes the profit.
 
 **Comply with local regulations**
 
-Decentralized applications are accessible by everyone on the planet in the same way, without any difference between users. This feature allows anyone to access cryptocurrency wallets and use those solutions; this is a powerful feature that gives access to people who can not open a bank account to cryptocurrency or decentralized finance.
+Decentralized applications are accessible by everyone on the planet in the same way, without any difference between users. This feature allows anyone to access cryptocurrency wallets and use those solutions; this is a powerful feature that gives access to people who can not open a bank account to cryptocurrencies and decentralized finance products.
 
-Nevertheless, each country has specific regulations applied to financial products; thus, those fully open and restrictionless solutions violate those rules.
+Nevertheless, each country has specific regulations applied to financial products; thus, those fully open and restrictionless solutions often violate those rules.
 
 #### Lightning Network \[@poon2016bitcoin]
 
-The Lightning Network is a Layer-2 solution for the Bitcoin network. It was proposed as a solution to the scalability problem of the Bitcoin network. It leverages state channel technology to be used as a payment channel to perform any number of off-chain transactions. A payment channel is initiated by an on-chain funding transaction. Then it is followed by any number of off-chain transactions. Finally, to commit balances, a settlement transaction is performed on-chain. At the same time, the lightning network introduces real-time fund transfer in the blockchain. Yellow Network's protocol leverages the same technology for high-frequency trading.
+The Lightning Network is a Layer-2 solution for the Bitcoin network. It was proposed as a solution to the scalability problem of the Bitcoin network. It leverages state channel technology to be used as a payment channel to perform any number of off-chain transactions. A payment channel is initiated by an on-chain funding transaction. Then it is followed by any number of off-chain transactions. Finally, to commit balances, a settlement transaction is performed on-chain. At the same time, the lightning network introduces real-time fund transfer in the blockchain. Yellow Network protocol leverages the same technology for high-frequency trading.
 
 #### DyDx \[@juliano2017dydx]
 
-DyDx is a trading platform of derivatives markets. It combines the speed of a centralized order book and the transparency of decentralized applications. The result is a more secure and faster software architecture. The downside is that it is limited to Ethereum's users.
+[DyDx](https://whitepaper.dydx.exchange/) is a trading platform of derivatives markets. It combines the speed of a centralized order book and the transparency of decentralized applications. The result is a more secure and faster software architecture. The downside is that it is limited to Ethereum's users.
 
 #### Qredo \[@mccuskerqredo]
 
-Qredo focuses on securing digital assets using MPC \[REFERENCE NEEDED], eliminating the sensitive private key from the signature computation. It also allows settlements by updating an internal ledger entry without costly transactions on the blockchain \[TO BE CONFIRMED]. While Qredo brings state-of-the-art security for digital assets, it doesn't facilitate high-frequency trading.
+[Qredo](https://www.qredo.com/qredo-white-paper.pdf) focuses on securing digital assets using MPC \[REFERENCE NEEDED], eliminating the sensitive private key from the signature computation. It also allows settlements by updating an internal ledger entry without costly transactions on the blockchain \[TO BE CONFIRMED]. While Qredo brings state-of-the-art security for digital assets, it doesn't facilitate high-frequency trading.
 
 #### LayerZero
 

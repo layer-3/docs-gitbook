@@ -1,12 +1,12 @@
 # Finance
 
-Yellow is an overlay mesh network that uses state channels to unify all of the blockchains. This is not a new blockchain.
+Yellow is a mesh network that uses state channels to unify all of the blockchains. This is not a new blockchain.
 
-It is a financial transaction processing framework built on top of blockchains through a Layer-3 concept.
+It is a financial transaction processing framework built on top of existing blockchains through a Layer-3 concept.
 
 We use state channel technology to build a metadata index over the liquidity and digital assets over any blockchain, making trading easier.
 
-The benefit of this approach is a global, localized, and ultra-high-speed consolidation and aggregation of liquidity, smoothened order flow and because since there is no blockchain there are no typical performance bottlenecks.
+The benefit of this approach is a global, localized, and ultra-high-speed consolidation and aggregation of liquidity, smooth order flow and because there is no blockchain there is no typical performance bottleneck.
 
 The overlay envisions a three fold approach, commonly used in traditional financial markets;&#x20;
 

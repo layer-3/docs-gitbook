@@ -1,6 +1,6 @@
 # Network Architecture
 
-A mesh (peer-to-peer) network using state channels to unify blockchains, reaching every token locked on isolated networks without the need of bridging them. It is not a new blockchain. It is a independent network using the same principle as the Bitcoin lightning network to reach high performances and secure consensus.
+A mesh (peer-to-peer) network using state channels to unify blockchains, reaching every token locked on isolated networks without the need of bridging them. It is not a new blockchain. It is an independent network using the same principle as the Bitcoin lightning network to reach high performances and secure consensus.
 
 The matching throughput averages to billions of messages per day, way faster than any combined Layer-1 and Layer-2 solutions available today.
 

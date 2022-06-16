@@ -12,7 +12,7 @@ A traditional Clearing House is tasked with five crucial roles that add stabilit
 
 #### 1) Clearing & Finalizing Trades
 
-This is the principal role of the clearinghouse. It means that all trades that the exchange reports are up to the required market standards and that each participating party is able fulfill their commitment. Once a trade is “cleared” it means the trade is completed. i.e. the buyer has paid for the goods and the seller has delivered the asset.
+This is the principal role of the clearinghouse. It means that all trades that the exchange reports are up to the required market standards and that each participating party is able to fulfill their commitment. Once a trade is “cleared” it means the trade is completed. i.e. the buyer has paid for the goods and the seller has delivered the asset.
 
 #### 2) Settling Trades and Netting Margin Accounts
 
