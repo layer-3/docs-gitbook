@@ -77,6 +77,19 @@ In this situation liabilities are unbalanced, Broker A owes 500$ more of asset t
 
 In the last example we can see that a small collateral can be used to cover a relatively large amount of trades even in the case of a significant market movement.
 
+#### Collateral thresholds
+
+Brokers are responsible of monitoring the balance of liabilities and making sure the difference doesn't exceed the collateral of the other broker.
+
+Actions can be configured on the following thresholds:
+
+| Threshold                         | Action                                                                     |
+| --------------------------------- | -------------------------------------------------------------------------- |
+| Higher than 80% of the collateral | Trigger a settlement of the liabilities                                    |
+| Higher than 95% of the collateral | Disconnect the orderbooks streaming to ensure no more trades are performed |
+
+Those thresholds and mechanisms are not enforced by the protocol, the values can be different for each broker. Tweaking those parameters makes the broker settle more often or be more exposed to the market prices changes.
+
 ### State channel protocol
 
 #### Overview
