@@ -77,41 +77,6 @@ In this situation liabilities are unbalanced, Broker A owes 500$ more of asset t
 
 In the last example we can see that a small collateral can be used to cover a relatively large amount of trades even in the case of a significant market movement.
 
-#### Risk factor
-
-{% hint style="warning" %}
-This section is a draft of risk factor calculation, it needs to be refined to make sure the risk is always low for brokers and settlements are not triggered too often.
-{% endhint %}
-
-The previous example was using ETH and BTC which are in the same class of assets volatility and whose prices are very correlated. Some assets would have uncorrelated prices and very different volatility over time, SHIB and USDC for instance.
-
-We calculate the risk factor for a given asset as the median of the daily price change over the last year.
-
-As the day of writing we got the following results:
-
-| Currency | Risk factor |
-| -------- | ----------- |
-| BTC      | 2.09%       |
-| ETH      | 2.68%       |
-| USDC     | 0.027%      |
-| SHIB     | 3.64%       |
-| DOGE     | 2.63%       |
-
-The risk factor is applied on the value of each asset, we apply factors positively to the broker with the highest estimated value and negatively to the other.
-
-The latest example with the risk factor gives the following results:
-
-| Currency  | Broker A    | Broker B    |
-| --------- | ----------- | ----------- |
-| ETH       | $33,884     |             |
-| BTC       |             | $51,403     |
-| USDC      | $20,005     |             |
-| **Total** | **$53,890** | **$51,403** |
-
-Risk = 53,890 - 51,403 = $2,487
-
-Including the volatility risk factor the maximum risk becomes $2,487. Including the volatility risk the collateral needs to be a lot more significant to cover the days of high volatility of assets, or the settlement between the brokers will be triggered more often.&#x20;
-
 ### State channel protocol
 
 #### Overview
