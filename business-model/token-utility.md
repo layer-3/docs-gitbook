@@ -26,7 +26,7 @@ The node software is open-source; however, you need to lock $YELLOW tokens to be
 
 ![](<../.gitbook/assets/Group 13634 (1).png>)
 
-### **Token Distribution and Roadmap**
+### **Token Distribution**
 
 ![](<../.gitbook/assets/Group 13630 (1).png>)
 
