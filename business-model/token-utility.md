@@ -22,31 +22,7 @@ The node software is open-source; however, you need to lock $YELLOW tokens to be
 
 **Max Supply:** 10,000,000,000
 
-**Initial Circulation Supply:** 40,000,000 (0.4% of max supply)
-
-**Initial Circulation Supply Market Cap:** $2,000,000 (initial unlock \* public price)
-
-**Token Public Round Market Cap (Fully Diluted)**: $500,000,000
-
-**Token release:** TBA
-
-**Project Valuation:** $20M at Seed price
-
 ### Tokenomics <a href="#_ob23eq6hrwly" id="_ob23eq6hrwly"></a>
-
-The initial supply of 40M $YELLOW tokens will be minted in Q3 2022, which will allow users to open up to 160 trading channels within Yellow Network.
-
-| Round      | Tokens  | Market Cap  | Cliff | Vest  |
-| ---------- | ------- | ----------- | ----- | ----- |
-| Seed       | 500 M   | $2,000,000  | 6 mo  | 36 mo |
-| Influencer | 100 M   | $3,000,000  | 6 mo  | 36 mo |
-| Strategic  | 300 M   | $12,000,000 | 6 mo  | 36 mo |
-| Private A  | 450 M   | $6,000,000  | 4 mo  | 36 mo |
-| Private B  | 460 M   | $12,000,000 | 2 mo  | 24 mo |
-| Private C  | 90 M    | $24,000,000 | 2 mo  | 24 mo |
-| Private D  | 90 M    | $36,000,000 | 2 mo  | 2 mo  |
-| Public     | 10 M    | $50,000,000 | 0 mo  | 12 mo |
-| Total      | 2 000 M |             |       |       |
 
 ![](<../.gitbook/assets/Group 13634 (1).png>)
 
@@ -61,21 +37,6 @@ The initial supply of 40M $YELLOW tokens will be minted in Q3 2022, which will a
 * 10% will be proportionally vested to the founders and team during 5 years period;&#x20;
 * 12.5% will be allocated for Yellow Treasury and for future growth;&#x20;
 * 2.5% will be allocated for liquidity provision.
-
-#### Seed and Influencer funding:
-
-* 600 Million $YELLOW tokens
-* December 2021
-
-**Private sale (4 rounds) and Strategic sale:**
-
-* 1.390 Billion $YELLOW tokens&#x20;
-* January-June 2022
-
-**Public sale:**
-
 * 100 Million $YELLOW tokens
 * TBA \[Q3-Q4, 2022]
-
-The final unlock of $YELLOW tokens will happen in January 2027. Only community and development funds would contain $YELLOW tokens based on the adoption and community activities.
 
