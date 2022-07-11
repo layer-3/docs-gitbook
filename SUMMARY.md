@@ -11,6 +11,7 @@
   * [Smart Clearing Protocol](network-architecture/smart-clearing-contract.md)
 * [Finance](finance/README.md)
   * [Smart Clearing House](finance/smart-clearing-house.md)
+  * [Tokenomics, Fee and Incentive Structure](finance/tokenomics-fee-and-incentive-structure.md)
   * [Fee Structure](finance/fee-structure/README.md)
     * [Layer 1 - Liquidity Fee](finance/fee-structure/layer-1-liquidity-fee.md)
     * [Layer 2 - Clearing Fee](finance/fee-structure/layer-2-clearing-fee.md)
