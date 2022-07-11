@@ -18,6 +18,7 @@
   * [Fee Calculation Example](finance/fee-calculation-example.md)
   * [Yellow Reserve Vault](finance/yellow-reserve-vault.md)
   * [Cross Currency Swaps](finance/cross-currency-swaps.md)
+  * [Fee Structure](finance/fee-structure-1.md)
   * [Electronic Communication Network](finance/electronic-communication-network.md)
 * [Business model](business-model/README.md)
   * [Economics](business-model/economics.md)
