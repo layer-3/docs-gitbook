@@ -37,6 +37,6 @@ The node software is open-source; however, you need to lock $YELLOW tokens to be
 * 10% will be proportionally vested to the founders and team during 5 years period;&#x20;
 * 12.5% will be allocated for Yellow Treasury and for future growth;&#x20;
 * 2.5% will be allocated for liquidity provision.
-* 100 Million $YELLOW tokens
-* TBA \[Q3-Q4, 2022]
+
+
 
