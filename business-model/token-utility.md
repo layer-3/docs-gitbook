@@ -22,9 +22,7 @@ The node software is open-source; however, you need to lock $YELLOW tokens to be
 
 **Max Supply:** 10,000,000,000
 
-### Tokenomics <a href="#_ob23eq6hrwly" id="_ob23eq6hrwly"></a>
-
-![](<../.gitbook/assets/Group 13634 (1).png>)
+### &#x20;<a href="#_ob23eq6hrwly" id="_ob23eq6hrwly"></a>
 
 ### **Token Distribution**
 
