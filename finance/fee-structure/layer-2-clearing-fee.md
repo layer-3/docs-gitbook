@@ -2,29 +2,30 @@
 
 Fees that are paid from the broker to the Yellow Clearing House.
 
-A Clearing Fee is due whenever Broker positions are cleared/settled on the Yellow Network. The fee is calculated as % of the settlement liability, converted into $YELLOW, accumulated, and invoiced monthly directly to the dedicated $YELLOW spending wallet of each broker.
+A Clearing Fee is due whenever Broker positions are cleared/settled on the Yellow Network. The fee is calculated as % of the settlement liability, converted into $YELLOW, and invoiced to each broker's dedicated $YELLOW spending wallet on settlement.
 
-There is a fixed clearing cycle that settles all cross-broker transactions daily at 0.00 am UTC.
+* The Clearing Fee is due whenever Broker positions are cleared/settled on the Yellow Network.
+* The Clearing Fee is calculated as % of the settlement liability, converted into $YELLOW, and invoiced monthly to each broker's dedicated $YELLOW spending wallet.
+* The Clearing Fee Fee is only applied to net cross-broker exchanged volume.
+* The Clearing fees are defined by Yellow Clearing House, and 100% of it goes to the Clearing House.
+* There are dynamic fee levels with a floor fee that depends on the number of $YELLOW tokens stacked.
+* The Clearing Fee is not for profit and funds the Yellow Reserve Vault.
 
-The clearing fee is only applied to cross-broker exchanged volume.
+**Clearing Fee=Net Settlement Liability calculated  in  $YELLOW x Clearing Fee (%)**
 
-Clearing fees are defined by Yellow Clearing House, and 100% of it goes to the Clearing House. There are dynamic fee levels with a floor fee that depends on the number of active (open) trading channels.
-
-**Clearing Fee = Trade Nominal in  $YELLOW x Clearing Fee (%)**
-
-Defined by:        Yellow Clearing House\
-Beneficiary:       Yellow Clearing House\
-Payment Ccy:    $YELLOW\
-Periodicity:        Calculated every day at 0.00 am UTC based on final liabilities of each\
-&#x20;                          broker and paid every day during the settlement.
+**Defined by:**        Yellow Clearing House\
+**Beneficiary:**      Yellow Clearing House\
+**Payment Ccy:**    $YELLOW\
+**Periodicity:**        Periodicity: Calculated and paid on settlement \
+&#x20;                           (min. every 24h, or on a  specific settlement request by the Broker)
 
 | Broker Tier\* | $YELLOW Stacked | Clearing Fee |
 | ------------- | --------------- | ------------ |
-| 4 channels    | 250.000         | 1.00%        |
-| 8 channels    | 500.000         | 0.80%        |
-| 16 channels   | 1.000.000       | 0.40%        |
-| 32 channels   | 2.000.000       | 0.20%        |
-| 64 channels   | 4.000.000       | 0.10%        |
+| 4 channels    | 250.000         | 100 bps      |
+| 8 channels    | 500.000         | 80 bps       |
+| 16 channels   | 1.000.000       | 40 bps       |
+| 32 channels   | 2.000.000       | 20 bps       |
+| 64 channels   | 4.000.000       | 10 bps       |
 
 _\*The applicable Broker Tier is defined at the beginning of each clearing cycle. Brokers can not move tiers during a clearing cycle._
 
