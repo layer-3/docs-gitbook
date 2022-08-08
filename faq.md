@@ -12,7 +12,7 @@ We merge the multi-year crypto software development experience of Openware and Y
 
 Yellow Network is powered by Openware’s software; OpenDAX™. While OpenDAX™ brokerage software is free, connecting the node to liquidity streams (channels) requires staking the $YELLOW token—starting from 250,000 for 4 channels.
 
-Growth of token value is the main revenue stream, but we also offer enterprise-grade support for node runners which is $240,000 per year.
+Token sales is the main revenue stream, but we also offer enterprise-grade support for node runners which is $240,000 per year.
 
 Moreover, the Openware partner network will ensure the adoption and integration of new and operating CEXs and DEXs to the Yellow Network.
 

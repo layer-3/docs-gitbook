@@ -12,6 +12,8 @@ A monolithic business structure of current crypto exchanges isn't scalable.
 
 ![Traditional finance vs. Crypto finance](<.gitbook/assets/Traditional finance vs. Crypto finance (1).png>)
 
+![](<.gitbook/assets/Traditional finance vs. Crypto finance.png>)
+
 #### Many Independents Blockchains <a href="#_rpdroawe59eb" id="_rpdroawe59eb"></a>
 
 Currently, the cryptocurrency industry is highly fragmented.&#x20;
