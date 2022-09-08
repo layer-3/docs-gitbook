@@ -1,5 +1,11 @@
 # Custody Layer
 
+{% hint style="info" %}
+At this stage, the Yellow Network does not provide any in-house custodial solution, neither centralized nor decentralized. This means that participating brokers are responsible to provide their own custody solutions.
+
+However, we are aware of the need for decentralized custodial solutions and plan to address this issue in the near future.&#x20;
+{% endhint %}
+
 ### Flexible architecture
 
 The custodian solution used by a broker is independent from the yellow network, few requirements are mandatory to integrate a new custody provider.
