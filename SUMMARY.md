@@ -1,26 +1,69 @@
 # Table of contents
 
-* [Introduction](README.md)
-* [Background](background.md)
-* [The Problem](the-problem.md)
-* [The Solution](the-solution.md)
-* [Design](design.md)
-* [Network Architecture](network-architecture/README.md)
-  * [System Overview](network-architecture/system-overview.md)
-  * [Custody Layer](network-architecture/custody-layer.md)
-  * [Smart Clearing Protocol](network-architecture/smart-clearing-contract.md)
-  * [Electronic Communication Network](network-architecture/electronic-communication-network.md)
-* [Finance](finance/README.md)
-  * [Smart Clearing House](finance/smart-clearing-house.md)
-  * [Fee Structure](finance/fee-structure/README.md)
-    * [Layer 1 - Liquidity Fee](finance/fee-structure/layer-1-liquidity-fee.md)
-    * [Layer 2 - Clearing Fee](finance/fee-structure/layer-2-clearing-fee.md)
-  * [Fee Calculation Example](finance/fee-calculation-example.md)
-  * [Yellow Reserve Vault](finance/yellow-reserve-vault.md)
-* [Business model](business-model/README.md)
-  * [Token Utility](business-model/token-utility.md)
-  * [Market Evaluation](business-model/market-evaluation.md)
-* [Whitepaper](whitepaper.md)
-* [Future Release](future-release.md)
-* [Conclusions](conclusions.md)
-* [FAQ](faq.md)
+## About
+
+* [👋 Introduction](README.md)
+* [🗺 Related Work](about/related-work/README.md)
+  * [💶 Traditional Finance](about/related-work/traditional-finance.md)
+  * [🌕 Web 3](about/related-work/web-3.md)
+* [🏛 Business Model](about/business-model.md)
+* [🗺 Roadmap](about/roadmap.md)
+* [📌 Summary](about/summary.md)
+* [📊 Market Analysis](about/market-analysis.md)
+* [🚧 The Problem](about/the-problem.md)
+* [🚀 The Solution](about/the-solution.md)
+
+## Getting Started
+
+* [🎯 Guidelines and Quick Links](getting-started/guidelines-and-quick-links/README.md)
+  * [📚 Glossary](getting-started/guidelines-and-quick-links/glossary.md)
+  * [❔ FAQ](getting-started/guidelines-and-quick-links/faq.md)
+
+## Yellow Network
+
+* [🪙 $YELLOW](yellow-network/usdyellow/README.md)
+  * [🧾 Tokenomics](yellow-network/usdyellow/tokenomics.md)
+* [📐 Architecture & Design](yellow-network/architecture-and-design/README.md)
+  * [System Overview](yellow-network/architecture-and-design/system-overview.md)
+  * [Smart Clearing Protocol](yellow-network/architecture-and-design/smart-clearing-protocol.md)
+  * [Custodial Layer](yellow-network/architecture-and-design/custodial-layer.md)
+  * [Supported Technologies](yellow-network/architecture-and-design/supported-technologies.md)
+  * [Risk Management](yellow-network/architecture-and-design/risk-management.md)
+* [📥 Yellow Reserve Vault](yellow-network/yellow-reserve-vault.md)
+* [💳 Fees](yellow-network/fees/README.md)
+  * [Layer 1 - Liquidity Fee](yellow-network/fees/layer-1-liquidity-fee.md)
+  * [Layer 2 - Clearing Fee](yellow-network/fees/layer-2-clearing-fee.md)
+  * [Fee Calculation Example](yellow-network/fees/fee-calculation-example.md)
+* [👥 Partners & Advisors](yellow-network/partners-and-advisors.md)
+* [🍿 Core Team](yellow-network/core-team.md)
+* [🆕 Offering](yellow-network/offering.md)
+* [🗣 Communications & Marketing](yellow-network/communications-and-marketing.md)
+
+## Documents
+
+* [📄 Whitepaper](documents/whitepaper.md)
+
+## Legal
+
+* [📝 General T\&C](legal/general-t-and-c.md)
+* [🪙 $YELLOW T\&C](legal/usdyellow-t-and-c.md)
+* [🔐 Audit & KYC](legal/audit-and-kyc.md)
+* [🔏 Privacy Policy](legal/privacy-policy.md)
+
+## Social Media & Community
+
+* [🐦 Twitter](https://twitter.com/Yellow)
+* [🗣 Telegram](https://t.me/yellow\_org)
+* [🔉 Discord](https://discord.gg/YA2xKdJj)
+* [📚 Medium.com](https://medium.com/@yellow\_blog)
+
+***
+
+* [🦆 Yellow Duckies](yellow-duckies.md)
+
+## More from Yellow
+
+* [🟡 Yellow Exchange](https://www.yellow.com/)
+* [🔵 Openware](https://www.openware.com/)
+* [🟢 Yellow Capital](https://yellow.capital/)
+* [🌿 Yellow Connect](https://www.instagram.com/yellowcoworking/?hl=en)
