@@ -364,7 +364,7 @@ Participating brokers and liquidity providers can open trading channels to use a
 
 #### Whitepaper
 
-A whitepaper is an informational document issued by a company or [not-for-profit ](https://www.investopedia.com/terms/n/not-for-profit.asp)organization to promote or highlight the features of a solution, product, or service that it offers or plans to offer. Our Whitepaper can be found [here](../../documents/whitepaper.md).&#x20;
+A whitepaper is an informational document issued by a company or [not-for-profit ](https://www.investopedia.com/terms/n/not-for-profit.asp)organization to promote or highlight the features of a solution, product, or service that it offers or plans to offer. Our Whitepaper can be found [here](../../docs-hub/whitepaper.md).&#x20;
 
 ## X
 

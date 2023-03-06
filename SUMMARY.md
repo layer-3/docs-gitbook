@@ -19,6 +19,11 @@
   * [📚 Glossary](getting-started/guidelines-and-quick-links/glossary.md)
   * [❔ FAQ](getting-started/guidelines-and-quick-links/faq.md)
 
+## Yellow's Canary Network
+
+* [🐤 Duckies, Yellow's Canary Network](yellows-canary-network/duckies-yellows-canary-network.md)
+* [🦆 Duckies Reward Platform](yellows-canary-network/duckies-reward-platform.md)
+
 ## Yellow Network
 
 * [🪙 $YELLOW](yellow-network/usdyellow/README.md)
@@ -39,9 +44,10 @@
 * [🆕 Offering](yellow-network/offering.md)
 * [🗣 Communications & Marketing](yellow-network/communications-and-marketing.md)
 
-## Documents
+## Docs Hub
 
-* [📄 Whitepaper](documents/whitepaper.md)
+* [📄 Whitepaper](docs-hub/whitepaper.md)
+* [🦆 Duckies One-Pager](docs-hub/duckies-one-pager.md)
 
 ## Legal
 
@@ -56,10 +62,6 @@
 * [🗣 Telegram](https://t.me/yellow\_org)
 * [🔉 Discord](https://discord.gg/YA2xKdJj)
 * [📚 Medium.com](https://medium.com/@yellow\_blog)
-
-***
-
-* [🦆 Yellow Duckies](yellow-duckies.md)
 
 ## More from Yellow
 
