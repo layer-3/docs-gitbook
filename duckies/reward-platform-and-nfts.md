@@ -2,7 +2,7 @@
 description: Community-driven initiative inside Yellow ecosystem
 ---
 
-# 🦆 Duckies Reward Platform
+# 🦆 Reward Platform & NFTs
 
 <figure><img src="../.gitbook/assets/1500x500.jpeg" alt=""><figcaption></figcaption></figure>
 

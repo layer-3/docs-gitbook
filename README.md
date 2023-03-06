@@ -24,4 +24,4 @@ The Yellow Network embodies a decentralized Layer-3 peer-to-peer mesh network al
 
 Powered by state channel technology, it enables real-time settlement between brokers on top of a blockchain, thus enabling cross-chain trading **** without the need to bridge assets.
 
-[State channels](docs-hub/whitepaper.md#state-channels) improve public blockchain throughput by reducing the computational load placed on nodes when processing and storing transactions. This makes it easy to run a node, which decentralizes the process of certifying the miners' work.
+[State channels](documents/whitepaper.md#state-channels) improve public blockchain throughput by reducing the computational load placed on nodes when processing and storing transactions. This makes it easy to run a node, which decentralizes the process of certifying the miners' work.

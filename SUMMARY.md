@@ -19,10 +19,11 @@
   * [📚 Glossary](getting-started/guidelines-and-quick-links/glossary.md)
   * [❔ FAQ](getting-started/guidelines-and-quick-links/faq.md)
 
-## Yellow's Canary Network
+## Duckies
 
-* [🐤 Duckies, Yellow's Canary Network](yellows-canary-network/duckies-yellows-canary-network.md)
-* [🦆 Duckies Reward Platform](yellows-canary-network/duckies-reward-platform.md)
+* [🐤 Duckies, Yellow's Canary Network](duckies/duckies-yellows-canary-network.md)
+* [🦆 Reward Platform & NFTs](duckies/reward-platform-and-nfts.md)
+* [📃 Duckies One-Pager](duckies/duckies-one-pager.md)
 
 ## Yellow Network
 
@@ -46,15 +47,7 @@
 
 ## Docs Hub
 
-* [📄 Whitepaper](docs-hub/whitepaper.md)
-* [🦆 Duckies One-Pager](docs-hub/duckies-one-pager.md)
-
-## Legal
-
-* [📝 General T\&C](legal/general-t-and-c.md)
-* [🪙 $YELLOW T\&C](legal/usdyellow-t-and-c.md)
-* [🔐 Audit & KYC](legal/audit-and-kyc.md)
-* [🔏 Privacy Policy](legal/privacy-policy.md)
+* [📄 Whitepaper](documents/whitepaper.md)
 
 ## Social Media & Community
 
@@ -63,9 +56,15 @@
 * [🔉 Discord](https://discord.gg/YA2xKdJj)
 * [📚 Medium.com](https://medium.com/@yellow\_blog)
 
+## Legal
+
+* [📝 General T\&C](legal/general-t-and-c.md)
+* [🪙 $YELLOW T\&C](legal/usdyellow-t-and-c.md)
+* [🔐 Audit & KYC](legal/audit-and-kyc.md)
+* [🔏 Privacy Policy](legal/privacy-policy.md)
+
 ## More from Yellow
 
-* [🟡 Yellow Exchange](https://www.yellow.com/)
 * [🔵 Openware](https://www.openware.com/)
 * [🟢 Yellow Capital](https://yellow.capital/)
 * [🌿 Yellow Connect](https://www.instagram.com/yellowcoworking/?hl=en)
