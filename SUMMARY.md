@@ -22,7 +22,7 @@
 ## Duckies
 
 * [🐤 Duckies, Yellow's Canary Network](duckies/duckies-yellows-canary-network.md)
-* [🦆 Reward Platform & NFTs](duckies/reward-platform-and-nfts.md)
+* [🦆 Reward Platform & NFT Card Trading Game](duckies/reward-platform-and-nft-card-trading-game.md)
 * [📃 Duckies One-Pager](duckies/duckies-one-pager.md)
 
 ## Yellow Network
