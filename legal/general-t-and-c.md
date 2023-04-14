@@ -27,7 +27,7 @@ The Layer3 Fintech Ltd. Services are complex and carry a high level of risk and 
 These Terms may be amended, changed, modified or updated by  Layer3 Fintech Ltd. at any time and without prior notice to you. You should check back as often as possible ON THIS PAGE to confirm that your copy and understanding of these Terms are current and correct. Your non-termination or continued access to the Website and/or use of any Services after the effective date of any amendments, changes, or updates constitutes your acceptance of these Terms, as modified by such amendments, changes, or updates.
 
 **1. Definitions** \
-****In these Terms and all documents incorporated herein by reference, the following words have the following meanings unless otherwise indicated:
+In these Terms and all documents incorporated herein by reference, the following words have the following meanings unless otherwise indicated:
 
 1.1 “**Affiliates**” means any Person that, directly or indirectly, through one or more intermediaries, controls, is controlled by, or is under common control with, you or Layer3 Fintech Ltd., and for purposes of this definition “control” (including, with correlative meanings, the terms, “controlled by” and “under common control with”), as used with respect to you or Layer3 Fintech Ltd., means the possession, directly or indirectly, of the power to direct or cause the direction of this management or policies of you or Layer3 Fintech Ltd., whether through the ownership of voting securities, by contract or otherwise;
 

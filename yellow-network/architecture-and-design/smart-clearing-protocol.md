@@ -8,13 +8,13 @@ Despite the stakeholders in crypto being slightly different from a [clearing hou
 
 Market fragmentation by connecting smaller brokers, market makers, and exchanges; cross-chain and cross-network.
 
-Market depth & liquidity **** by aggregating liquidity and order flow between all participants.
+Market depth & liquidity by aggregating liquidity and order flow between all participants.
 
-Conflict of interest **** whereby many traditional crypto exchanges not only act as a marketplace but at the same time act as market makers, liquidity providers, and custodians.
+Conflict of interest whereby many traditional crypto exchanges not only act as a marketplace but at the same time act as market makers, liquidity providers, and custodians.
 
 Introducing a dedicated smart clearing protocol will de-risk the existing landscape and open the market for new participants while simultaneously comforting regulators.
 
-Liquidity aggregation helps smaller, specialized exchanges and brokers to offer **** better pricing and handle larger trade volumes.&#x20;
+Liquidity aggregation helps smaller, specialized exchanges and brokers to offer better pricing and handle larger trade volumes.&#x20;
 
 Clients from large exchanges can trade additional token pairings for which they otherwise would have to move custodied assets.&#x20;
 
@@ -55,7 +55,7 @@ Here is an example of how the state channel captures a trade between two brokers
   * Liability 1: Broker A liability to Broker B: `30,000 USDC`\
     It means that Broker A will have to give `30,000 USDC` to Broker B at settlement time
   * Liability 2: Broker B liability to Broker A: `1 BTC`\
-    It means that Broker B will have to give `1 BTC` to Broker A **** at settlement time
+    It means that Broker B will have to give `1 BTC` to Broker A at settlement time
 
 #### State Definition
 

@@ -18,11 +18,11 @@ If you are interested in partnering with Yellow Network, reach out to us via our
 
 Learn more about our trusted advisors who help to promote Yellow Network and provide us with decades of expertise:&#x20;
 
-****<img src="../.gitbook/assets/image (30).png" alt="" data-size="original"> **Chris Larsen -** [Co-founder and Chairman, Ripple](https://ripple.com/company/leadership/)
+<img src="../.gitbook/assets/image (30).png" alt="" data-size="original"> **Chris Larsen -** [Co-founder and Chairman, Ripple](https://ripple.com/company/leadership/)
 
-****![](<../.gitbook/assets/image (2).png>) **Robert Drost** - [Head of R\&D, Consensys](https://www.linkedin.com/in/rjdrost/)
+![](<../.gitbook/assets/image (2).png>) **Robert Drost** - [Head of R\&D, Consensys](https://www.linkedin.com/in/rjdrost/)
 
-****![](<../.gitbook/assets/image (3).png>) **Juan Otero** - [Founder & CEO, Travala.com](https://www.linkedin.com/in/joterovila/?originalSubdomain=au)
+![](<../.gitbook/assets/image (3).png>) **Juan Otero** - [Founder & CEO, Travala.com](https://www.linkedin.com/in/joterovila/?originalSubdomain=au)
 
 ## Backers
 
@@ -204,4 +204,4 @@ Web3 scalability solutions&#x20;
 
 </details>
 
-<mark style="color:yellow;">**+10**</mark>** ** other industry leaders
+<mark style="color:yellow;">**+10**</mark> other industry leaders

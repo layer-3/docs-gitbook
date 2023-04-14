@@ -48,7 +48,7 @@ Features supported in _Finex_ spot matching engine:
 * **Stop-limit:** advanced limit order used to buy or sell a specific asset at a predefined limit.  Contrary to the stop-loss order, a stop-limit order creates a limit order instead of buying the asset outright once the limit price is achieved.&#x20;
 * **API Rate limit**: a rate limiter configurable depending on user roles; it can be configured at the API server level and the trading engine level
 * **Bi-directional WebSocket API**: allows end-users and brokers' bots to create and cancel orders and be notified about trades in real-time
-* ****[**gRPC API** with JS and go libraries to speed up the development of bots](https://docs.openware.com/opendax/developers-guides/api-documentation/grpc-protocol)
+* [**gRPC API** with JS and go libraries to speed up the development of bots](https://docs.openware.com/opendax/developers-guides/api-documentation/grpc-protocol)
 
 ## State Channel Technology <a href="#_gxnel8rqtpbo" id="_gxnel8rqtpbo"></a>
 

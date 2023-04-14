@@ -10,7 +10,7 @@ description: An independent Layer-3 mesh network connecting brokers and exchange
 
 Liquidity aggregation helps smaller, specialized participants to offer better pricing and handle larger volumes of trades. End-users can trade additional token pairings which they otherwise would have to move to another broker, exchange, or chain.
 
-Yellow Network participants hold margin accounts with the clearing house for which they use **** [margin netting](../yellow-network/architecture-and-design/smart-clearing-protocol.md), **** allowing for more efficient use of their capital.&#x20;
+Yellow Network participants hold margin accounts with the clearing house for which they use [margin netting](../yellow-network/architecture-and-design/smart-clearing-protocol.md), allowing for more efficient use of their capital.&#x20;
 
 ## Decentralization&#x20;
 
