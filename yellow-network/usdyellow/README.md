@@ -39,15 +39,3 @@ Learn more about the [Clearing Fee](../fees/layer-2-clearing-fee.md)
 The Yellow Reserve Vault is our concept of a treasury to secure Yellow Network. As the network is growing so will the Reserve Vault, providing security and comfort to all participants.&#x20;
 
 Learn more about the [Reserve Vault](../yellow-reserve-vault.md)
-
-## **Token Distribution**
-
-![](<../../.gitbook/assets/Token Utility.png>)
-
-* 30% will be dedicated to ecosystem projects development (Community Fund)
-* Funds from that pool will be allocated based on community proposals; 15% will be allocated for growth-hacking rewards&#x20;
-* 10% will be allocated for trading mining rewards&#x20;
-* 20% will be proportionally vested to the investors over a three-year period&#x20;
-* 10% will be proportionally vested to the founders and team over a five-year period&#x20;
-* 12.5% will be allocated for Yellow Treasury and for future growth&#x20;
-* 2.5% will be allocated for liquidity provision.
