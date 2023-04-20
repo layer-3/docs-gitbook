@@ -24,7 +24,7 @@ For more information, visit the [Roadmap](../about/roadmap.md).
 
 ## A Solution for Everyone
 
-Cutting-edge state channel technology enables fast trading and reaching assets locked on isolated networks without directly bridging them. The Yellow Network offers P2P liquidity sharing rewards for market makers.
+Cutting-edge state channel technology enables fast trading and reaching assets locked on isolated networks without directly bridging them.&#x20;
 
 ### **For Broker Startups**
 

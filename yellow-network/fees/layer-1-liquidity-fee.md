@@ -1,5 +1,5 @@
 ---
-description: Direct P2P rewards for liquidity providers
+description: For liquidity providers
 ---
 
 # Layer 1 - Liquidity Fee
