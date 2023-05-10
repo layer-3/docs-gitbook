@@ -64,7 +64,7 @@ Now is the time to mint and meld Ducklings, bring the ultimate reward ‘’Myth
 
 If a melding attempt fails, the player receives a neutral card called a Zombeak.&#x20;
 
-Zombeaks cannot be used for further melding with other cards; however, they form a unique collection and can be melded between each other to create an ultimate Mythic Zombeak!
+Zombeaks cannot be used for further melding with other cards; however, they form a unique collection and can be melded between each other to create a rarer Zombeak!
 
 * When melding Common cards, there is a 15% probability of getting a Zombeak.&#x20;
 * When melding Rare cards, there is a 10% probability of getting a Zombeak.&#x20;
