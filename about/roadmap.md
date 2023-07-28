@@ -8,31 +8,28 @@ description: Explore what Yellow Network has in store for the future.
 This Product Roadmap is a general description of the product direction set up for Yellow Network and related products. Work is still ongoing, so this section is subject to change.
 {% endhint %}
 
-### **2022**
+### **Q3, 2023**
 
-* $YELLOW token Seed round
-* Yellow Network Tech Research
-* Private rounds token sales
-* Yellow Network architecture draft
+* ClearSync V1 deployed on Polygon for canary testing
+* Yellow Network proof of concept, a simplified version of the protocol with 5 participants on Duckies Canary Network
+* Using DUCKIES community to educate them on YELLOW and becoming the early testground
 
-### **Q1-Q2 2023 (TBC)**
+### Q3—Q4, 2023
 
-* $YELLLOW token Public Sale
-* State channels SDK implementation
-* Yellow Exchange goes live
-* MVP of Yellow Network
+* $DUCKIES token listing
+* Open-sourcing the Yellow sidecar, which enables access to the network
+* Deployment of the $YELLOW token on Ethereum
+* Private rounds limited sale
 
-### **Q3-Q4 2023 (TBC)**
+### **Q4, 2023**
 
-* Public Beta of Yellow Network
-* Cross-chain atomic settlement (alpha)
-* Support for non-OpenDAX platforms
+* $YELLOW token listing (tentative deadline)
+* Yellow Network mainnet soft launch
+* Community is joining to test and run Yellow nodes
+* Wrapping $DUCKIES onto other chains (Ethereum, L2, BNB)
 
-### **Rest of 2023 (TBC)**
+### Q1, 2024
 
-* Yellow Network's official release
-* Yellow SDK 1.0 release
-* Dispute solving model
-* Plugins for OTC platforms
-* Settlements between different EVM blockchains
+* 20 major network participants (brokers, MMs, exchanges)
+* Wrapping $YELLOW on more chains (L2, Polygon, BNB)
 
