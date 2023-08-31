@@ -41,10 +41,7 @@ description: A real-life calculation example for Layer-1 and Layer-2 fees
 
 #### Fee Payment Cash Flow
 
-| Type               | Broker A     | Broker B     | Period        |
-| ------------------ | ------------ | ------------ | ------------- |
-| Liquidity Fee (L1) | -100 USDT    | n/a          | On Settlement |
-| Clearing Fee (L2)  | -200 $YELLOW | -160 $YELLOW | On Settlement |
+<table><thead><tr><th width="150">Type</th><th width="150">Broker A</th><th>Broker B</th><th>Period</th></tr></thead><tbody><tr><td>Liquidity Fee (L1)</td><td>-100 USDT</td><td>n/a</td><td>On Settlement</td></tr><tr><td>Clearing Fee (L2)</td><td>-200 $YELLOW</td><td>-160 $YELLOW</td><td>On Settlement</td></tr></tbody></table>
 
 Broker A will receive a total of 10 BTC on settlement and pay a total of USDT 200,100. Yellow Network will receive a total of 360 $YELLOW for the Reserve Vault.
 

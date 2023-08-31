@@ -25,13 +25,7 @@ The more $YELLOW a participant locks in, the more state channels can be opened.&
 
 Sample below:&#x20;
 
-| $YELLOW Stacked | Opened state channels |
-| --------------- | --------------------- |
-| 250.000         | 4                     |
-| 500.000         | 8                     |
-| 1.000.000       | 16                    |
-| 2.000.000       | 32                    |
-| 4.000.000       | 64                    |
+<table><thead><tr><th width="236">$YELLOW Stacked</th><th>Opened state channels</th></tr></thead><tbody><tr><td>250.000</td><td>4</td></tr><tr><td>500.000</td><td>8</td></tr><tr><td>1.000.000</td><td>16</td></tr><tr><td>2.000.000</td><td>32</td></tr><tr><td>4.000.000</td><td>64</td></tr></tbody></table>
 
 To unstack funds, a broker needs to close open trading channels and request a withdrawal. There is a 30-day lockup period for funds post the withdrawal request in order to account for any post-transaction claims.
 

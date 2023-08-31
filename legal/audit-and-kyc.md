@@ -7,4 +7,14 @@ For more information, visit the [Roadmap.](../about/roadmap.md)\
 Audit & KYC is currently in progress and the results will be published soon.
 {% endhint %}
 
-### _<mark style="color:yellow;">The audit of the platform will be announced and published closer to release.</mark>_
+### [Hacken Security Audit \[March 2, 2023\]](https://hacken.io/audits/yellownetwork/)
+
+**Score:** 10/10
+
+**Languages:** Solidity
+
+#### Report:
+
+{% file src="../.gitbook/assets/Yellow Network Audit 2323.pdf" %}
+
+_<mark style="color:yellow;">More audits will be published closer to TGE.</mark>_
