@@ -40,82 +40,24 @@ Decentralized exchanges eliminate the custody risk but introduce a subset of [ot
 
 ### Decentralization
 
-Regarded as the key differentiator between TradFi and DeFi, true decentralization tends to offer one of the biggest headaches in crypto trading. While the underlying blockchain technology per se offers decentralization, trading requires a marketplace. While centralized exchanges offer efficient trading tools and deep liquidity, they are, as their name suggests, centralized and thus controlled by a single entity.&#x20;
+As the current situation reveals, even though decentralization is considered the driving force within the crypto space, it is far from being a reality. What is referred to as "[decentralization theater](https://www.imf.org/en/Publications/fandd/issues/2022/09/Defi-promise-and-pitfalls-Fabian-Schar)" creates a risk of deception as, in many cases, DeFi protocols remain heavily centralized.
 
-Decentralized solutions, on the other hand, often provide limited functionality, low liquidity, and focus on a specific blockchain ecosystem. Decentralized entities are largely unregulated and have no place of jurisdiction in the case of fraud or misuse, leaving users vulnerable.&#x20;
+As a matter of fact, even with most DEXs, there is no real decentralized trading. For example, some DEXs may still rely on a central entity to control the flow of buy and sell orders, which allows them to prevent users from placing orders. Others continue to use third-party accounts as a way to route transactions, making them not really non-custodial in nature. When it comes to their underlying technology blockchain, computing is not fully decentralized, as all machines re-compute the same code in order to reach consensus. Additionally, liquidity remains concentrated on a single chain. As such, trading on decentralized exchanges stands in contrast to something like the shipping industry, which exhibits true decentralization. A vast network of companies works together to ensure global shipping functions effectively.
 
-## Market Fragmentation <a href="#_c3n1dp2ojjwf" id="_c3n1dp2ojjwf"></a>
+## Market and liquidity fragmentation <a href="#_c3n1dp2ojjwf" id="_c3n1dp2ojjwf"></a>
 
-Today, most traders use [CEXs (centralized exchanges),](the-problem.md#centralized-exchanges-cex) where trading occurs in isolated silos and within the ecosystem of the CEX. As a result, each CEX and [DEX (decentralized exchange)](the-problem.md#decentralized-exchanges-dex) has its list of markets and, unlike traditional finance, those markets are neither global nor aggregated.
+Due to the proliferation of blockchains, there has been a fragmentation of assets and liquidity across different layer-1 protocols and increasingly [layer-2 chains](https://l2beat.com/scaling/tvl/). Their interoperability is limited, having hitherto been dependent on centralized cross-chain bridges that have emerged as a [top security risk](https://blog.chainalysis.com/reports/cross-chain-bridge-hacks-2022/) due to the many substantial hacks that have [occurred](https://twitter.com/tokenterminal/status/1582376876143968256/photo/1) since September 2020.
 
-Centralized and decentralized exchanges suffer from liquidity spread over dozens of different chains, markets, and exchanges. This forces platforms to choose a set of chains and tokens they work with, ultimately making exchanges competitors and thus fragmenting the market.&#x20;
+To counteract market fragmentation, centralized crypto exchanges (CEXs) have rushed onto the scene. Over the last few years, [more than 200](https://coinmarketcap.com/rankings/exchanges/) CEXs have emerged worldwide. While many of them allow for the trading of digital assets across various blockchains, these CEXs remain isolated silos that trap liquidity. They all have their list of markets, which, unlike in traditional finance, are neither global nor aggregated. Some exchanges even choose a set of blockchains they more closely work with, amplifying the overall market's fragmentation.
 
-Every new blockchain project adds more to this chaos, significantly slowing down the growth and scaling of the cryptocurrency industry.
+The dominance of CEXs in crypto trading has been hailed as one of the [big ironies](https://www.coindesk.com/markets/2019/03/30/the-ultimate-irony-of-crypto-trading/) of a world that wants to achieve decentralization. Thus, decentralized crypto exchanges (DEXs) have gained in popularity and volume, at one point in time even [driving on-chain transaction volumes past](https://blog.chainalysis.com/reports/defi-dexs-web3/) that of centralized platforms.
 
-## **Compliance with Regulations**
+Although DEXs may provide a number of benefits over CEXs in terms of censorship resistance or accessibility, they are not yet of [sufficient quality to compete](https://www.snb.ch/n/mmr/reference/sem\_2022\_06\_03\_barbon/source/sem\_2022\_06\_03\_barbon.n.pdf)\[^12] with the largest CEXs. One of their main problems is the fact that a DEX's blockchain-enabled transparency lends itself to [front-running](https://link.springer.com/chapter/10.1007/978-3-030-43725-1\_13). Also, they lack speed and have a hard time competing regarding transaction costs and price efficiency.
 
-Many blockchain applications are accessible by everyone on the planet in the same way, without any difference between users. This gives access to cryptocurrencies and decentralized finance products, particularly to those who do not have bank accounts.
+Due to their on-chain architecture, DEXs remain unsuitable for high-frequency trading. Furthermore, when compared to centralized exchanges, there is a general lack of market depth. Market making is limited because, in the context of DEXs, liquidity providers factor in the volatility and security issues of decentralized exchange protocols and therefore deploy limited capital in accordance with their risk profiles. More generally, because the competition among DEXs is currently high, individual platforms struggle to retain liquidity as most liquidity providers only deploy [mercenary capital](https://www.mechanism.capital/native-token-liquidity/) that will instantly withdraw funds if competitors bait them with higher short-term returns.
 
-Nevertheless, each country has specific regulations applied to financial products and markets;  fully open and restrictionless solutions often violate those rules.&#x20;
+A recent analysis purports to [show](https://blog.bitfinex.com/media-releases/hodlers-put-faith-in-centralised-exchanges-as-platforms-flex-high-tech-security/) that crypto traders are more comfortable trading on CEXs given the growing threat of hacks that have materialized in the decentralized finance (DeFi) space over the course of this year. In the aftermath of the [FTX collapse](https://www.investopedia.com/what-went-wrong-with-ftx-6828447), this could be changing, as the inherent count party risk coming with CEXs could increasingly be seen as a major disadvantage. While CEXs are striving to provide transparency by incorporating [proof of reserves](https://niccarter.info/proof-of-reserves/), in which a custodian transparently attests to the existence of on-chain reserve assets (but not liabilities), DEXs are working towards solving their [blockchain-based scalability issues](https://www.researchgate.net/publication/342639281\_Scaling\_Blockchains\_A\_Comprehensive\_Survey).
 
-Increased attention from regulators worldwide is scrutinizing one of the major beneficial aspects of blockchain technology. Many countries have already started to restrict or even ban access to certain projects and providers, primarily out of fear for consumer protection and the lack of integrity of many solutions.&#x20;
+## Lack of regulatory frameworks
 
-## Centralized Exchanges (CEXs)
-
-Centralized exchanges suffer from additional hurdles that can have far-reaching impacts and hinder mass adoption.&#x20;
-
-#### Security & Control <a href="#_a7ns84xisfgu" id="_a7ns84xisfgu"></a>
-
-Centralized exchanges fully control the assets you deposit on the platform. You have to trust the platform entirely to store your funds securely. We still read about exchanges being hacked and users' funds being drained by attackers. Big exchanges take security seriously, especially recently, but it comes at a high operational cost.&#x20;
-
-**Support of Multiple Blockchains**
-
-Supporting a multitude of blockchains on a single platform is complex. Each chain must be explicitly monitored to ensure nodes and platform applications stay synchronized and process blocks in real-time. The load on some chains can escalate quickly, with the cost of transactions increasing rapidly, leading to trades, deposits, and withdrawals not proceeding or doing so very slowly.&#x20;
-
-**Compliance and Regulations**
-
-Complying with local regulations can be challenging for exchanges. Small exchanges probably prefer to target a single market and abide by a single regulator. Another common approach is registering the company in a country where it can operate without regulations. While the purpose of regulation is to protect customers, this solution exposes users to the platform operator's goodwill.&#x20;
-
-In the past, certain exchanges were forced to reduce or even cut user access seemingly overnight due to non-compliance with regulations. This can lead to frozen funds for end-users and potentially result in large losses on open positions.&#x20;
-
-**Market Making and Access to Liquidity**
-
-Running an exchange with many markets imposes the need to maintain order books with tight spreads to provide the best offers possible to users. It also requires deep liquidity in the order book to avoid significant price moves in case of sporadic high demand in a market. Centralized exchanges usually delegate this duty to "market makers." This service can be costly, and the exchange might still have to provide a big part of the liquidity injected into the order book itself.
-
-#### High Operational Costs <a href="#_emg1es6jeelj" id="_emg1es6jeelj"></a>
-
-The security, maintenance, and regulatory aspects of a CEX come at a high cost. These costs are usually passed on to the end-user in the form of fees. Some CEXs are publicly listed entities and thus operate "for-profit," which can lead to a conflict of interest between stakeholders and users.&#x20;
-
-## Decentralized Exchanges (DEXs)
-
-While Decentralized Exchanges mitigate some problems, they raise other concerns.
-
-#### Limitation of Blockchain Throughput <a href="#_gat1xioip300" id="_gat1xioip300"></a>
-
-Blockchain technology is not scaling well. The throughput of blockchains is minimal; users may experience network congestion, resulting in high fees, delays in transactions, or even in transactions being entirely dropped.
-
-#### Multi-Chain Support
-
-Most DEXs only support a single chain, thus restricting the user to a single sub-ecosystem. Trading across different chains by using multiple DEXs, bridges, and wrappers can be costly, slow, and risky.&#x20;
-
-Although there is an increasing number of DEXs that support multi-chain aggregation, the solutions tend to be far from a lean user experience.&#x20;
-
-#### Front-Running Problem <a href="#_tfcy725mgxv4" id="_tfcy725mgxv4"></a>
-
-All on-chain transactions are visible publicly before being mined in a block. A bot can "front-run" a transaction by setting a higher gas price, while the user's transaction would execute with a worse price than expected, or risk being rejected outright.
-
-#### Multi-Step Asset Movements <a href="#_bxf2nfrhp1bs" id="_bxf2nfrhp1bs"></a>
-
-It is too complicated and expensive for the end-user to move assets from one staking protocol to another or from one blockchain to another, requiring as it does multiple complex steps and incurring fees.
-
-#### Front-Running Bots
-
-Transparency of blockchain transactions and the fact that many chains such as Ethereum require gas fees for transactions exposes users of DEXs to front-running bots.
-
-These bots monitor the blockchain and the in-memory transaction pool (containing transactions not yet mined in a block) for incoming swaps. They check the slippage tolerance allowed by the user and calculate the cost of front-running those transactions. When profitable, they execute a transaction just before the users by setting a higher gas price and finalizing this transaction just after the user executes a trade.
-
-Although those bots do not fraudulently interact with a user's transaction, they distort the market and ultimately worsen the efficiency of the entire ecosystem.&#x20;
-
-#### Security & Regulation
-
-A DEX is not a centralized entity but relies on a trust protocol. Flaws in the protocol can make a DEX vulnerable to fraud and exploitation. Since a DEX is decentralized, there is no entity that can be held accountable in case of wrongdoing, leaving all the risk to the end-user.&#x20;
+Undeniably, DEXs with centralized components must be subject to the regulatory standards that CEXs must follow. However, this is not the case as specific regulation pertaining to the crypto industry is still missing. Consequently, this lack of regulatory frameworks leads to the fact that there is no separation of responsibilities -- mostly among CEXs. In fact, they are doing a bit of everything: Managing their security in-house, doing their own custody, issuing their own stablecoin, launching investment products, or acting as a launchpad. This not only creates a conflict of interest since CEXs act as marketplaces, market makers, liquidity providers, and custodians, but with this concentration in services, a lot of trust ends up being placed in CEXs - the opposite of what the blockchain space is about.
