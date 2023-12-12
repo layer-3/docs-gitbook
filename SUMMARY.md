@@ -19,12 +19,6 @@
   * [📚 Glossary](getting-started/guidelines-and-quick-links/glossary.md)
   * [❔ FAQ](getting-started/guidelines-and-quick-links/faq.md)
 
-## Duckies
-
-* [🐤 Duckies, Yellow's Canary Network](duckies/duckies-yellows-canary-network.md)
-* [🦆 Ducklings Game](duckies/ducklings-game.md)
-* [📃 Duckies One-Pager](duckies/duckies-one-pager.md)
-
 ## Yellow Network
 
 * [🪙 $YELLOW](yellow-network/usdyellow/README.md)
@@ -37,7 +31,7 @@
   * [Risk Management](yellow-network/architecture-and-design/risk-management.md)
 * [📥 Yellow Reserve Vault](yellow-network/yellow-reserve-vault.md)
 * [💳 Fees](yellow-network/fees/README.md)
-  * [Clearing Fee](yellow-network/fees/clearing-fee.md)
+  * [Clearing Fee](yellow-network/fees/layer-2-clearing-fee.md)
   * [Fee Calculation Example](yellow-network/fees/fee-calculation-example.md)
 * [👥 Partners & Advisors](yellow-network/partners-and-advisors.md)
 * [🍿 Core Team](yellow-network/core-team.md)
@@ -47,6 +41,12 @@
 ## Docs Hub
 
 * [📄 Whitepaper](documents/whitepaper.md)
+
+## Duckies
+
+* [🐤 Duckies, Yellow's Canary Network](duckies/duckies-yellows-canary-network.md)
+* [🦆 Ducklings Game](duckies/ducklings-game.md)
+* [📃 Duckies One-Pager](duckies/duckies-one-pager.md)
 
 ## Social Media & Community
 

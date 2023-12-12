@@ -18,4 +18,4 @@ Brokers using Yellow Network will encounter two fee layers.
 
 The first layer is a **Liquidity (or Trading) Fee** directly negotiated between the brokers to incentivize market-making and liquidity provisioning within Yellow Network. This fee is directly exchanged between the Market Maker and the Market Taker.&#x20;
 
-The [second layer](clearing-fee.md) is a **Clearing Fee,** the only fee Yellow Network charges for both sides of a trade. The clearing fee is sent to the [Yellow Reserve Vault](../yellow-reserve-vault.md), which provides treasury and dispute resolution functions, supporting the $YELLOW token.
+The [second layer](layer-2-clearing-fee.md) is a **Clearing Fee,** the only fee Yellow Network charges for both sides of a trade. The clearing fee is sent to the [Yellow Reserve Vault](../yellow-reserve-vault.md), which provides treasury and dispute resolution functions, supporting the $YELLOW token.

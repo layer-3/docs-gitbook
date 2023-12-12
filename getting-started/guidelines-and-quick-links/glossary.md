@@ -235,7 +235,7 @@ Yellow Network will charge fees and reward participants based on their activity.
 
 The first layer [(Layer 1)](broken-reference) is a **Liquidity Fee**
 
-The second layer [(Layer 2)](../../yellow-network/fees/clearing-fee.md) is a **Clearing Fee**
+The second layer [(Layer 2)](../../yellow-network/fees/layer-2-clearing-fee.md) is a **Clearing Fee**
 
 ## G
 
