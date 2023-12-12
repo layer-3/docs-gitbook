@@ -2,7 +2,7 @@
 description: The funding mechanism for Yellow Reserve Vault
 ---
 
-# Layer 2 - Clearing Fee
+# Clearing Fee
 
 Fees are paid from the broker to the [Yellow Network Reserve Vault](../yellow-reserve-vault.md).
 
@@ -11,7 +11,6 @@ A Clearing Fee is due whenever broker positions are cleared or settled on Yellow
 
 
 * The Clearing Fee is only applied to net cross-broker exchanged volume.
-* The Clearing fees are defined by Yellow Clearing House, and 100% of it goes to the Clearing House reserve smart contract.
 * There are dynamic fee levels with a floor fee that depends on the number of $YELLOW tokens stacked.
 * The Clearing Fee is not for profit and funds the Yellow Reserve Vault.
 

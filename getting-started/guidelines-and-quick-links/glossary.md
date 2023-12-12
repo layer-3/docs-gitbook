@@ -233,9 +233,9 @@ Exchanges are big players in the network; they usually target a global audience 
 
 Yellow Network will charge fees and reward participants based on their activity. However, fees are not charged for profit; all collected fees are either redistributed to network participants or used to fund the [Reserve Vault](../../yellow-network/yellow-reserve-vault.md).
 
-The first layer [(Layer 1)](../../yellow-network/fees/layer-1-liquidity-fee.md) is a **Liquidity Fee**
+The first layer [(Layer 1)](broken-reference) is a **Liquidity Fee**
 
-The second layer [(Layer 2)](../../yellow-network/fees/layer-2-clearing-fee.md) is a **Clearing Fee**
+The second layer [(Layer 2)](../../yellow-network/fees/clearing-fee.md) is a **Clearing Fee**
 
 ## G
 

@@ -32,7 +32,7 @@ Learn more about [Trading Channels](../architecture-and-design/smart-clearing-pr
 
 Accredited brokers that use the liquidity of other participants will be required to pay a clearing fee. This fee is exclusively charged in $YELLOW.
 
-Learn more about the [Clearing Fee](../fees/layer-2-clearing-fee.md)
+Learn more about the [Clearing Fee](../fees/clearing-fee.md)
 
 #### Yellow Reserve Vault
 
