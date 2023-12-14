@@ -1,5 +1,7 @@
 ---
-description: An independent Layer-3 mesh network connecting brokers and exchanges
+description: >-
+  Yellow Network decentralizes the trading for real by allowing participants to
+  trade using their nearest node.
 ---
 
 # 🚀 The Solution
