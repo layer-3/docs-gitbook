@@ -6,7 +6,7 @@ description: The leadership behind the Yellow Network project
 
 ## **Louis Bellet, CEO & Co-Founder**
 
-****![](<../.gitbook/assets/Bellet Louis.jpg>)****
+![](<../.gitbook/assets/Bellet Louis.jpg>)
 
 [LinkedIn](https://www.linkedin.com/in/louisbellet/) [Telegram](https://t.me/mod\_yellow) [Email](mailto:lbellet@yellow.com)
 
@@ -14,7 +14,7 @@ Louis is a software architect and serial entrepreneur in the fintech, crypto & b
 
 ## **Alexis Yellow, Executive Chairman & Founder**
 
-### ****![](<../.gitbook/assets/Alexis Yellow.jpg>)****
+### ![](<../.gitbook/assets/Alexis Yellow.jpg>)
 
 [LinkedIn](https://www.linkedin.com/in/sirkia/) [Telegram](http://t.me/alexisyellow) [Email](mailto:alex@yellow.com)
 
@@ -22,7 +22,7 @@ Alexis started his career in avionics before moving to the European Space Center
 
 ## **Camille Meulien, CTO**
 
-### ****![](<../.gitbook/assets/Camille Meulien.jpg>)****
+### ![](<../.gitbook/assets/Camille Meulien.jpg>)
 
 [LinkedIn](https://www.linkedin.com/in/camillemeulien) [Telegram](http://t.me/camille\_yellow) [Email](mailto:cmeulien@openware.com)
 
@@ -30,7 +30,7 @@ As a software architect, Camille is a known authority in the FinTech development
 
 ## **Sergii Kashchenko, COO**
 
-### ****![](<../.gitbook/assets/Kashchenko Sergii.jpg>)****
+### ![](<../.gitbook/assets/Kashchenko Sergii.jpg>)
 
 [LinkedIn](https://www.linkedin.com/in/kashchenko/) [Telegram](http://t.me/sergii\_ow) [Email](mailto:skashchenko@openware.com)
 
@@ -38,24 +38,16 @@ Ex-R\&D Director of Bitfury and startup COO/Co-Founder with a 16-year track reco
 
 ## **Bakhtiyar Mamedov, CFO**
 
-### ****![](<../.gitbook/assets/Bakhtiyar Mamedov.jpg>)****
+### ![](<../.gitbook/assets/Bakhtiyar Mamedov.jpg>)
 
 [LinkedIn](https://www.linkedin.com/in/bakhtiyar-mamedov-2175329/) [Telegram](http://t.me/bakhtiyar\_yellow) [Email](mailto:bmammadov@openware.com)
 
 A financial expert and manager with a strong background at Big 4, powering more than 18 years in PwC. He has extensive experience in banking and treasury management, which he has leveraged in the blockchain industry. Bakhtiyar was at the forefront of the Yellow & Openware merger, designing and implementing financial processes into the new structure.
 
-## Anastasiia Bobeshko, Head of Marketing
+## Anastasiia Bobeshko, Head of BizDev & Marketing
 
 ![](<../.gitbook/assets/Anastasiia Bobeshko.jpg>)
 
 [LinkedIn](https://www.linkedin.com/in/anastasiiabobeshko/) [Telegram](https://t.me/anastasiia\_yellow) [Email](mailto:abobeshko@yellow.com)&#x20;
 
 A marketing visionary, technology enthusiast, and ex-tech writer with almost 10 years of experience in building global brands. She is famous for building a marketing presence from zero to hero within various verticals, both traditional and emerging. She holds a Master's degree in engineering and leverages extensive expertise in brand growth strategies for mid-sized B2B businesses and product-centric companies. &#x20;
-
-## Bruno Sixto, Head of BizDev
-
-![](../.gitbook/assets/IMG\_5191.JPG)
-
-[LinkedIn](https://www.linkedin.com/in/brunosixto/) [Telegram](https://t.me/brunosixto\_yellow) [Email](<mailto:bsixto@yellow.com >)
-
-A Web 3 and IT Business Development Director and business model transformation consultant with over 12 years' experience in technology and consultancy B2B sales, strategic partnerships, and account management (C-Level, Blue Chip corporations, and government.) He has led high-performing teams overseeing more than 15 countries across five continents.

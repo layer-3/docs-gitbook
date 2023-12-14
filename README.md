@@ -5,9 +5,9 @@ description: From P2P payments to truly decentralized cross-chain trading
 # 👋 Introduction
 
 {% hint style="info" %}
-Yellow Network is a project in development. Not all solutions presented in the following (sub)sections are implemented at this stage. The current, and all subsequent sub-pages, are subject to change.&#x20;
-
-For more information, visit the [Roadmap](about/roadmap.md)
+Yellow Network is a project in development. Not all solutions presented in the following (sub)sections are implemented at this stage. The current, and all subsequent sub-pages, are subject to change. \
+\
+This document hub is currently in the editing stage. come back after Dec 20, 2023 if you'd like to read the new version fully.
 {% endhint %}
 
 > "Today, t_rading and speculation are the #1 use case for cryptocurrency, but most trading does not use any benefits of the blockchain. This is about to change."_
