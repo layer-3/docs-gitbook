@@ -8,8 +8,7 @@ description: >-
 
 [Yellow Network](https://www.yellow.org/) has been specifically designed to address the challenges faced by the current financial ecosystem. It aims to create a decentralized clearing and settlement framework where businesses can collaborate and leverage a robust liquidity infrastructure, similar to how internet service providers and network firms interconnect and operate under regulatory frameworks in various countries.
 
-By seamlessly connecting brokers and exchanges, Yellow Network serves as a clearing and settlement network of interconnected nodes operating across different blockchains. This blockchain-agnostic approach enables the aggregation of liquidity from various chains, resulting in improved efficiency, reduced slippage, and enhanced execution of trades. With Yellow Network, participants can access the best possible trading opportunities.\
-
+By seamlessly connecting brokers and exchanges, Yellow Network serves as a clearing and settlement network of interconnected nodes operating across different blockchains. This blockchain-agnostic approach enables the aggregation of liquidity from various chains, resulting in improved efficiency, reduced slippage, and enhanced execution of trades. With Yellow Network, participants can access the best possible trading opportunities.
 
 To facilitate high-speed trading, Yellow Network implements a layer-3 state channel infrastructure. This infrastructure allows for secure and decentralized communication and trading between brokers and exchanges. By leveraging this technology, Yellow Network ensures that transactions can be executed swiftly and efficiently while maintaining the integrity and security of the network.
 
