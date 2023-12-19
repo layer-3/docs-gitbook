@@ -6,11 +6,7 @@ description: Learn everything you need to know about our token
 
 {% hint style="info" %}
 Yellow Network is a project in development. Not all solutions presented in the following (sub)sections are implemented at this state. The current, and all subsequent sub-pages, are subject to change.
-
-For more information, visit the [Roadmap](../../about/roadmap.md)
 {% endhint %}
-
-For more information, visit the [Roadmap](../../about/roadmap.md)
 
 * **Token Name:** YELLOW
 * **Token Ticker:** $YELLOW

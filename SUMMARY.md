@@ -19,6 +19,10 @@
   * [📚 Glossary](getting-started/guidelines-and-quick-links/glossary.md)
   * [❔ FAQ](getting-started/guidelines-and-quick-links/faq.md)
 
+## Testnet
+
+* [🐤 Yellow Canary Testnet](testnet/yellow-canary-testnet.md)
+
 ## Yellow Network
 
 * [🪙 $YELLOW](yellow-network/usdyellow/README.md)
@@ -44,7 +48,6 @@
 
 ## Duckies
 
-* [🐤 Duckies, Yellow's Canary Network](duckies/duckies-yellows-canary-network.md)
 * [🦆 Ducklings Game](duckies/ducklings-game.md)
 * [📃 Duckies One-Pager](duckies/duckies-one-pager.md)
 
