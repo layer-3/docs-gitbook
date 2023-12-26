@@ -8,5 +8,5 @@ description: Explore what Yellow Network has in store for the future.
 This Product Roadmap is a general description of the product direction set up for Yellow Network and related products. Work is still ongoing, so this section is subject to change.
 {% endhint %}
 
-### **The updated roadmap will be added on Dec 19th, 2023**
+### **The updated roadmap will be added on Dec 28th, 2023**
 

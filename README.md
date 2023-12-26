@@ -18,9 +18,9 @@ Since the emergence of Bitcoin and Binance, many engineers and traders have work
 
 Blockchain has brought decentralized computation but has been far from being able to scale to what traditional finance is today due to the consensus algorithm mechanisms that require nodes to agree on the version of the state channel. This process, although secure, is slow and hinders the scalability of crypto trading.&#x20;
 
-The Yellow Network solves the problem of genuinely decentralized trading by allowing participants to swap assets across different exchanges without having to rely on block creation. This brings all parties, exchanges, blockchains, and trading firms together, creating a network of brokerages and allowing for a more efficient trading infrastructure.
+Yellow Network solves the problem of genuinely decentralized trading by allowing participants to swap assets across different exchanges without having to rely on block creation. This brings all parties, exchanges, blockchains, and trading firms together, creating a network of brokerages and allowing for a more efficient trading infrastructure.
 
-The Yellow Network embodies a decentralized Layer-3 peer-to-peer mesh network allowing brokers to communicate, trade, and aggregate the liquidity of connected nodes.
+Yellow Network embodies a decentralized Layer-3 peer-to-peer mesh network allowing brokers to communicate, trade, and aggregate the liquidity of connected nodes.
 
 Powered by state channel technology, it enables real-time settlement between brokers on top of a blockchain, thus enabling cross-chain trading without the need to bridge assets.
 

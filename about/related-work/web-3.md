@@ -67,7 +67,7 @@ Wootrade is a dark pool trading platform that offers significantly above-average
 
 An entry point to the 1inch Network's tech. The 1inch dApp is a 1 DeFi aggregator, offering access to the liquidity and token swap rates on various DEXes, with features, including partial fill and the ability to find the best swap paths across multiple liquidity sources. Users can optimize trades of DEXs on multiple networks and also with the 1inch DeFi Wallet users can buy crypto with their bank card using our partner fiat gateway providers.
 
-## State of the Market (Q3 2022)
+## State of the Market (Q4, 2023—Q1, 2024)
 
 The macroeconomic climate has been defined by inflation and the extension of geopolitical crises. These headwinds have been strongly reflected in the crypto markets. We have also seen the effects of Terra, Celsius, and 3AC’s capitulations impact the market and encourage mass de-risking across all crypto assets.
 
