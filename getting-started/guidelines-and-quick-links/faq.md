@@ -153,20 +153,6 @@ We plan to introduce the concept of "Watch Tower," a neutral party software that
 
 Watch Tower audits transactions between brokers and manages disputes automatically.
 
-### Traction / Development Stage
-
-**❓ Is** [**Yellow.com**](http://yellow.com) **currently running as a CEX, or has L3(Yellow Network) been implemented?**
-
-[Yellow.com](http://yellow.com) is running OpenDAX™ V3; it uses our liquidity network v1 called XLN. The V4 update is expected in June-July of 2022.
-
-**❓ When I use** [**Yellow.com**](http://yellow.com) **to deposit ETH, an ETH address is generated on the deposit page. If I deposit ETH to this address, what will happen later? When will the deposit amount appear on the assets page?**
-
-We advise you to test it yourself at [alpha.yellow.org](https://alpha.yellow.org/).
-
-**❓ Peatio is a previous generation of CEX software that has not been maintained for six years. During your developing process, which features did you keep, which were removed, which were added?**
-
-We are the core maintainers of Peatio, which we have updated for the last four years (v1, 2, and 3.) Currently, we still maintain v3.1—the architecture has completely changed since the old Peatio from 2015.
-
 ### References <a href="#_p7hewwe76stx" id="_p7hewwe76stx"></a>
 
 \[1] T. Close, "Nitro Protocol" https://eprint.iacr.org/2019/219.pdf, 2019.
