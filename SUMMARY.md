@@ -55,7 +55,7 @@
 
 * [🐦 Twitter](https://twitter.com/Yellow)
 * [🗣 Telegram](https://t.me/yellow\_org)
-* [🔉 Discord](https://discord.gg/YA2xKdJj)
+* [🔉 Discord](https://discord.gg/yellownetwork)
 * [📚 Medium.com](https://medium.com/@yellow\_blog)
 
 ## Legal
