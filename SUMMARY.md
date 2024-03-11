@@ -3,11 +3,11 @@
 ## About
 
 * [👋 Introduction](README.md)
-* [🗺 Related Work](about/related-work/README.md)
+* [🗺️ Related Work](about/related-work/README.md)
   * [💶 Traditional Finance](about/related-work/traditional-finance.md)
   * [🌕 Web 3](about/related-work/web-3.md)
-* [🏛 Business Model](about/business-model.md)
-* [🗺 Roadmap](about/roadmap.md)
+* [🏛️ Business Model](about/business-model.md)
+* [🗺️ Roadmap](about/roadmap.md)
 * [📌 Summary](about/summary.md)
 * [📊 Market Analysis](about/market-analysis.md)
 * [🚧 The Problem](about/the-problem.md)
@@ -40,7 +40,7 @@
 * [👥 Partners & Advisors](yellow-network/partners-and-advisors.md)
 * [🍿 Core Team](yellow-network/core-team.md)
 * [🆕 Offering](yellow-network/offering.md)
-* [🗣 Communications & Marketing](yellow-network/communications-and-marketing.md)
+* [🗣️ Communications & Marketing](yellow-network/communications-and-marketing.md)
 
 ## Docs Hub
 
@@ -54,7 +54,7 @@
 ## Social Media & Community
 
 * [🐦 Twitter](https://twitter.com/Yellow)
-* [🗣 Telegram](https://t.me/yellow\_org)
+* [🗣️ Telegram](https://t.me/yellow\_org)
 * [🔉 Discord](https://discord.gg/yellownetwork)
 * [📚 Medium.com](https://medium.com/@yellow\_blog)
 
