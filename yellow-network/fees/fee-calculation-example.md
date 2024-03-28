@@ -22,7 +22,7 @@ description: A real-life calculation example for Layer-1 and Layer-2 fees
 
 #### Broker B
 
-* Acts as Market Taker and is thus entitled to **receive** the Liquidity Fee
+* Acts as Market Maker and is thus entitled to **receive** the Liquidity Fee
 * 8 open State Channels = 80 bps Clearing Fee&#x20;
 * Liability Broker B: 10 BTC (will have to settle/send BTC to Broker A)
 
