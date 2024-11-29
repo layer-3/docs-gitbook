@@ -8,7 +8,7 @@ description: From P2P payments to truly decentralized cross-chain trading
 Yellow Network is a project in development. Not all solutions presented in the following (sub)sections are implemented at this stage. The current, and all subsequent sub-pages, are subject to change.&#x20;
 {% endhint %}
 
-> "Today, t_rading and speculation are the #1 use case for cryptocurrency, but most trading does not use any benefits of the blockchain. This is about to change."_
+> "Today, trading and speculation are the #1 use case for cryptocurrency, but most trading does not use any benefits of the blockchain. This is about to change."_
 >
 > **– Louis Bellet, CEO of Yellow**
 
