@@ -35,7 +35,7 @@
   * [Risk Management](yellow-network/architecture-and-design/risk-management.md)
 * [📥 Yellow Reserve Vault](yellow-network/yellow-reserve-vault.md)
 * [💳 Fees](yellow-network/fees/README.md)
-  * [Clearing Fee](yellow-network/fees/layer-2-clearing-fee.md)
+  * [Clearing Fee](yellow-network/fees/clearing-fee.md)
   * [Fee Calculation Example](yellow-network/fees/fee-calculation-example.md)
 * [👥 Partners & Advisors](yellow-network/partners-and-advisors.md)
 * [🍿 Core Team](yellow-network/core-team.md)
@@ -44,7 +44,7 @@
 
 ## Docs Hub
 
-* [📄 Whitepaper](documents/whitepaper.md)
+* [📄 Whitepaper](docs-hub/whitepaper.md)
 
 ## Duckies
 
@@ -54,9 +54,9 @@
 ## Social Media & Community
 
 * [🐦 Twitter](https://twitter.com/Yellow)
-* [🗣️ Telegram](https://t.me/yellow\_org)
+* [🗣️ Telegram](https://t.me/yellow_org)
 * [🔉 Discord](https://discord.gg/yellownetwork)
-* [📚 Medium.com](https://medium.com/@yellow\_blog)
+* [📚 Medium.com](https://medium.com/@yellow_blog)
 
 ## Legal
 

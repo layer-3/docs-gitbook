@@ -18,11 +18,11 @@ If you are interested in partnering with Yellow Network, reach out to us via our
 
 Learn more about our trusted advisors who help to promote Yellow Network and provide us with decades of expertise:&#x20;
 
-<img src="../.gitbook/assets/image (30).png" alt="" data-size="original"> **Chris Larsen -** [Co-founder and Chairman, Ripple](https://ripple.com/company/leadership/)
+<img src="../.gitbook/assets/image (59).png" alt="" data-size="original"> **Chris Larsen -** [Co-founder and Chairman, Ripple](https://ripple.com/company/leadership/)
 
-![](<../.gitbook/assets/image (2).png>) **Robert Drost** - [Head of R\&D, Consensys](https://www.linkedin.com/in/rjdrost/)
+![](<../.gitbook/assets/image (24).png>) **Robert Drost** - [Head of R\&D, Consensys](https://www.linkedin.com/in/rjdrost/)
 
-![](<../.gitbook/assets/image (3).png>) **Juan Otero** - [Founder & CEO, Travala.com](https://www.linkedin.com/in/joterovila/?originalSubdomain=au)
+![](<../.gitbook/assets/image (7).png>) **Juan Otero** - [Founder & CEO, Travala.com](https://www.linkedin.com/in/joterovila/?originalSubdomain=au)
 
 ## Backers
 
@@ -80,7 +80,7 @@ More on [https://medium.com/yellow-blog/5ire-joins-yellow-to-facilitate-adoption
 
 <details>
 
-<summary><img src="../.gitbook/assets/full-logo-normal-mexc.png" alt=""></summary>
+<summary><img src="../.gitbook/assets/full-logo-normal-mexc (1).png" alt=""></summary>
 
 Founded in 2018, MEXC Global is known as the exchange of high-performance and mega transaction matching technology. The team at MEXC Global is some of the first movers and pioneers of financial and blockchain technology. Currently, MEXC Global caters to 10 M+ users in more than 170 countries around the world and we have just started. This magnificent achievement is a significant milestone, and MEXC Global aims to become the go-to platform for new traders and experienced investors as they move forward in their financial journey.
 
@@ -98,7 +98,7 @@ Learn more about some of our key tech partners:
 
 <details>
 
-<summary><img src="../.gitbook/assets/4593-EbjIN2mra_StIiUvrFnjdd2QcjcSSoiSvbstwYGFgZ8 (2).png" alt=""></summary>
+<summary><img src="../.gitbook/assets/4593-EbjIN2mra_StIiUvrFnjdd2QcjcSSoiSvbstwYGFgZ8.png" alt=""></summary>
 
 Qredo is rearchitecting digital asset ownership and blockchain connectivity. A radical new approach to bring liquidity and capital efficiency to the blockchain economy, Qredo has pioneered the first decentralized trustless multi-party computation (MPC) custodial network. This advancement enables Qredo to offer decentralized custody, native cross-chain swaps, and cross-platform liquidity access.
 

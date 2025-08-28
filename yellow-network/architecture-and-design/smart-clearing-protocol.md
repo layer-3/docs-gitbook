@@ -24,7 +24,7 @@ This greatly reduces the risk of overexposure and helps to streamline liquidity 
 
 The Clearing Protocol can accurately report order flow data to regulators. This lowers the reporting burden for traders and brokers while simultaneously increasing the marketplace's safety and transparency, and helping to identify and exclude bad actors.&#x20;
 
-![The Yellow Network brings these functionalities using cutting-edge state channel technology and settlement via smart contracts.](<../../.gitbook/assets/Benefits of a Crypto Clearing House (1).png>)
+![The Yellow Network brings these functionalities using cutting-edge state channel technology and settlement via smart contracts.](<../../.gitbook/assets/Benefits of a Crypto Clearing House.png>)
 
 ## Protocol Overview
 
@@ -116,7 +116,7 @@ Using an HTLC for the settlement process can move funds from one broker's custod
 
 This technology was introduced first in Bitcoin and is compatible with all blockchains.
 
-See also: [https://en.bitcoin.it/wiki/Hash\_Time\_Locked\_Contracts](https://en.bitcoin.it/wiki/Hash\_Time\_Locked\_Contracts)
+See also: [https://en.bitcoin.it/wiki/Hash\_Time\_Locked\_Contracts](https://en.bitcoin.it/wiki/Hash_Time_Locked_Contracts)
 
 ## Disputes
 

@@ -40,7 +40,7 @@ When two participants execute a batch settlement, both sides pay a clearing fee 
 
 This Clearing fee is also an incentive to optimize the size of batching. Clearing fees are collected and locked into the Yellow Community Vault.
 
-Learn more about the [Clearing Fee](../fees/layer-2-clearing-fee.md)
+Learn more about the [Clearing Fee](../fees/clearing-fee.md)
 
 ### ➤ Yellow Community Vault
 

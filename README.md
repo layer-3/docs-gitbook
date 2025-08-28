@@ -8,7 +8,7 @@ description: From P2P payments to truly decentralized cross-chain trading
 Yellow Network is a project in development. Not all solutions presented in the following (sub)sections are implemented at this stage. The current, and all subsequent sub-pages, are subject to change.&#x20;
 {% endhint %}
 
-> "Today, t_rading and speculation are the #1 use case for cryptocurrency, but most trading does not use any benefits of the blockchain. This is about to change."_
+> "Today, &#x74;_&#x72;ading and speculation are the #1 use case for cryptocurrency, but most trading does not use any benefits of the blockchain. This is about to change."_
 >
 > **– Louis Bellet, CEO of Yellow**
 
@@ -22,4 +22,4 @@ Yellow Network embodies a decentralized Layer-3 peer-to-peer mesh network allowi
 
 Powered by state channel technology, it enables real-time settlement between brokers on top of a blockchain, thus enabling cross-chain trading without the need to bridge assets.
 
-[State channels](documents/whitepaper.md#state-channels) improve public blockchain throughput by reducing the computational load placed on nodes when processing and storing transactions. This makes it easy to run a node, which decentralizes the process of certifying the miners' work.
+[State channels](docs-hub/whitepaper.md#state-channels) improve public blockchain throughput by reducing the computational load placed on nodes when processing and storing transactions. This makes it easy to run a node, which decentralizes the process of certifying the miners' work.

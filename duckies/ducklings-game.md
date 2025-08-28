@@ -4,7 +4,7 @@ description: An NFT-based Card Trading Game
 
 # 🦆 Ducklings Game
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 Welcome to the wacky world of Ducklings Trading Card Game, a blockchain-based NFT collectible game! You'll embark on a journey as a duckling breeder to collect and meld Ducklings NFT cards. You'll encounter the eccentric and mad scientist, Dr. Quackers, who has taken over the game with his expertise in genetic engineering.
 
@@ -20,7 +20,7 @@ Be wary of failed melding attempts, as they'll result in the creation of special
 
 To start your duckling breeding journey, you can get **Ducklings Booster Packs** containing 1, 5, 10, 25, or 50 cards.&#x20;
 
-## ![](<../.gitbook/assets/Group 138369 (2).png>)**Ducklings Booster Pack**
+## ![](<../.gitbook/assets/Group 138369 (1).png>)**Ducklings Booster Pack**
 
 <mark style="color:yellow;">**Rarity probability distribution per booster pack: 85% common, 12% rare, 2.5% epic, and 0.5% legendary.**</mark>&#x20;
 
@@ -60,7 +60,7 @@ Mythic NFTs also have a place in our official Ambassador Program. You'll gain ev
 Now is the time to mint and meld Ducklings, bring the ultimate reward ‘’Mythics’’ to space, and earn the benefits of them as a unique Mythic holder!\
 
 
-## ![](https://lh5.googleusercontent.com/E2qIXyJ4gQ6eFESy3jcfZ-0lz6qGBRIAFLfCTEA2zDgXlR2R9cCDiKvkDyBhY3SDSH1Ln7DQuKeOMcTyE3YN8D5fVtC-mo134nR\_i-qi5sEo3JE-hx1SzK5yp1CjSxbNHX6exjTY9bqKkwqvb9DVuLc)Zombeaks: Duckie-Mutants
+## ![](https://lh5.googleusercontent.com/E2qIXyJ4gQ6eFESy3jcfZ-0lz6qGBRIAFLfCTEA2zDgXlR2R9cCDiKvkDyBhY3SDSH1Ln7DQuKeOMcTyE3YN8D5fVtC-mo134nR_i-qi5sEo3JE-hx1SzK5yp1CjSxbNHX6exjTY9bqKkwqvb9DVuLc)Zombeaks: Duckie-Mutants
 
 If a melding attempt fails, the player receives a neutral card called a Zombeak.&#x20;
 
@@ -81,4 +81,4 @@ Are you ready to dive into this WACKY world of duck breeding and create new and 
 
 ## Duckies Media Kit
 
-**Logos, images, project details:** [https://drive.google.com/drive/u/0/folders/1xXloVv8L\_JtOyYsiGkaPIBkdAnbwSJlx](https://drive.google.com/drive/u/0/folders/1xXloVv8L\_JtOyYsiGkaPIBkdAnbwSJlx)
+**Logos, images, project details:** [https://drive.google.com/drive/u/0/folders/1xXloVv8L\_JtOyYsiGkaPIBkdAnbwSJlx](https://drive.google.com/drive/u/0/folders/1xXloVv8L_JtOyYsiGkaPIBkdAnbwSJlx)
