@@ -1,12 +1,12 @@
 # 🐤 Yellow Canary Testnet
 
-Yellow Canary Testnet is designed to test the innovations of Yellow Network in a real-world environment, including the latest versions of smart contracts and software components.
+Yellow Canarynet is designed to test the innovations of Yellow Network in a real-world environment, including the latest versions of smart contracts and software components.
 
-Canary Network will be used for trading tangible assets like on the production Yellow Network, but with smaller transaction value. It minimizes the risk of releasing vulnerabilities while risking small amounts of money. The $DUCKIES token is the token used on the canary testnet to connect to the network and pay the fees, acting like the $YELLOW token for Yellow Network.
+Canary Network will be used for trading tangible assets like on the production Yellow Network but with smaller transaction value. It minimizes the risk of releasing vulnerabilities while risking small amounts of money. The $DUCKIES token is the token used on the Canarynet to connect to the network and pay the fees, acting like the $YELLOW token for Yellow Network.
 
 {% embed url="https://www.yellow.org/duckies" %}
 
-## What Yellow Canary Testnet Puts Forward <a href="#453b" id="453b"></a>
+## What Yellow Canarynet Puts Forward <a href="#453b" id="453b"></a>
 
 ### **Identify and address issues** <a href="#3348" id="3348"></a>
 
@@ -19,6 +19,8 @@ Canary testing is part of an iterative development process that allows developer
 ### **Community engagement** <a href="#577d" id="577d"></a>
 
 The environment is built to be a highly engaging and reward-based community for developers, validators, and users who participate in testing and provide feedback. It was designed to be an environment that allows developers to test new features and upgrades in a real-world environment.
+
+
 
 ## How to Join Yellow Canary Testnet <a href="#89f5" id="89f5"></a>
 
