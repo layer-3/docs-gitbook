@@ -1,25 +1,72 @@
----
-description: From P2P payments to truly decentralized cross-chain trading
----
+# Welcome to Yellow!
 
-# 👋 Introduction
+Markets should be open, fast, and fair.
 
-{% hint style="info" %}
-Yellow Network is a project in development. Not all solutions presented in the following (sub)sections are implemented at this stage. The current, and all subsequent sub-pages, are subject to change.&#x20;
-{% endhint %}
+Too often, traders are forced to choose between performance and control. One platform offers speed but asks you to give up custody. Another gives you transparency but makes execution slow, fragmented, or difficult to use.
 
-> "Today, &#x74;_&#x72;ading and speculation are the #1 use case for cryptocurrency, but most trading does not use any benefits of the blockchain. This is about to change."_
->
-> **– Louis Bellet, CEO of Yellow**
+Yellow is built on a different idea: trading should feel seamless without asking users to give up ownership of their assets.
 
-Since the emergence of Bitcoin and Binance, many engineers and traders have worked together to develop the cryptocurrency industry. While most traders only use CEXs (centralized exchanges), the trading occurs in silos. Each CEX and DEX (decentralized exchange) has its list of markets, but unlike traditional finance, those markets are not global.
+Yellow combines fast trading infrastructure with user-controlled custody, creating an experience designed for modern markets and modern users. It is built for people who want performance, clarity, and control in one place.
 
-Blockchain has brought decentralized computation but has been far from being able to scale to what traditional finance is today due to the consensus algorithm mechanisms that require nodes to agree on the version of the state channel. This process, although secure, is slow and hinders the scalability of crypto trading.&#x20;
+### What Yellow Stands For
 
-Yellow Network solves the problem of genuinely decentralized trading by allowing participants to swap assets across different exchanges without having to rely on block creation. This brings all parties, exchanges, blockchains, and trading firms together, creating a network of brokerages and allowing for a more efficient trading infrastructure.
+Yellow is built around a few core principles:
 
-Yellow Network embodies a decentralized Layer-3 peer-to-peer mesh network allowing brokers to communicate, trade, and aggregate the liquidity of connected nodes.
+* **Control should stay with the user**\
+  Your assets should not disappear into a black box just to access the market.
+* **Trading should be fast**\
+  Market participation should not feel delayed, fragmented, or unnecessarily complex.
+* **Access should be simpler**\
+  Whether you sign in with Google or connect your own wallet, getting started should be straightforward.
+* **Markets should be easier to navigate**\
+  Funding, trading, transferring, and withdrawing should feel like parts of one clear system.
 
-Powered by state channel technology, it enables real-time settlement between brokers on top of a blockchain, thus enabling cross-chain trading without the need to bridge assets.
+### How Yellow Works
 
-[State channels](docs-hub/whitepaper.md#state-channels) improve public blockchain throughput by reducing the computational load placed on nodes when processing and storing transactions. This makes it easy to run a node, which decentralizes the process of certifying the miners' work.
+Yellow uses two main balance areas:
+
+* **Account Balance** — your main balance on the platform
+* **Trading Account** — the balance used for trading
+
+This structure helps separate funding and withdrawals from active trading, while keeping the flow clear.
+
+In general:
+
+* if you **sign in with Google**, funds first arrive in **Account Balance**, then move to **Trading Account** before trading
+* if you **connect your own wallet**, you deposit directly through that wallet using the platform
+
+To withdraw funds externally, they must be in **Account Balance** first.
+
+### A Better Trading Journey
+
+Yellow is designed to make each step easier to understand:
+
+1. connect
+2. fund
+3. transfer
+4. trade
+5. withdraw
+
+That may sound simple, but it reflects something bigger: markets work better when users can see what they are doing, understand where their funds are, and move with confidence.
+
+### Start Here
+
+If you are new to Yellow, this is the best order to follow:
+
+1. [connecting-your-wallet.md](getting-started/connecting-your-wallet.md "mention")
+2. [fund-your-account.md](getting-started/fund-your-account.md "mention")
+3. [transfer-funds.md](getting-started/transfer-funds.md "mention")
+4. [quickstart.md](getting-started/quickstart.md "mention")
+5. [withdraw-your-funds.md](getting-started/withdraw-your-funds.md "mention")
+
+### The Idea Behind It
+
+Yellow is built for a future where market access does not require surrendering control.
+
+Fast execution matters. Clear flows matter. Ownership matters.
+
+Yellow brings those ideas together in one trading experience.
+
+### We Are Open
+
+If you are unsure about a step, check the [faq.md](community-and-resources/support/faq.md "mention"), [troubleshooting.md](community-and-resources/support/troubleshooting.md "mention"), or the related guide for that action.

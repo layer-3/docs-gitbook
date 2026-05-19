@@ -1,72 +1,68 @@
 # Table of contents
 
-## About
-
-* [👋 Introduction](README.md)
-* [🗺️ Related Work](about/related-work/README.md)
-  * [💶 Traditional Finance](about/related-work/traditional-finance.md)
-  * [🌕 Web 3](about/related-work/web-3.md)
-* [🏛️ Business Model](about/business-model.md)
-* [🗺️ Roadmap](about/roadmap.md)
-* [📌 Summary](about/summary.md)
-* [📊 Market Analysis](about/market-analysis.md)
-* [🚧 The Problem](about/the-problem.md)
-* [🚀 The Solution](about/the-solution.md)
+* [Welcome to Yellow!](README.md)
 
 ## Getting Started
 
-* [🎯 Guidelines and Quick Links](getting-started/guidelines-and-quick-links/README.md)
-  * [📚 Glossary](getting-started/guidelines-and-quick-links/glossary.md)
-  * [❔ FAQ](getting-started/guidelines-and-quick-links/faq.md)
+* [Quick Start](getting-started/quick-start.md)
+* [Connect Your Wallet](getting-started/connecting-your-wallet.md)
+* [Fund Your Account](getting-started/fund-your-account.md)
+* [Transfer Funds](getting-started/transfer-funds.md)
+* [Place a Trade](getting-started/quickstart.md)
+* [Withdraw Your Funds](getting-started/withdraw-your-funds.md)
+* [Referral Program](getting-started/referral-program.md)
 
-## Testnet
+## Trading on Yellow
 
-* [🐤 Yellow Canary Testnet](testnet/yellow-canary-testnet.md)
+* [Markets](trading-on-yellow/markets/README.md)
+  * [Spot](trading-on-yellow/markets/spot.md)
+  * [Perpetuals](trading-on-yellow/markets/perpetuals.md)
+* [Market Parameters](trading-on-yellow/market-parameters.md)
+* [Prices](trading-on-yellow/prices.md)
+* [Order Types](trading-on-yellow/order-types.md)
+* [Fees](trading-on-yellow/fees.md)
+* [Account Management](trading-on-yellow/account-management.md)
 
-## Yellow Network
+## For Institutions
 
-* [🪙 $YELLOW](yellow-network/usdyellow/README.md)
-  * [🧾 Tokenomics](yellow-network/usdyellow/tokenomics.md)
-* [📐 Architecture & Design](yellow-network/architecture-and-design/README.md)
-  * [System Overview](yellow-network/architecture-and-design/system-overview.md)
-  * [Smart Clearing Protocol](yellow-network/architecture-and-design/smart-clearing-protocol.md)
-  * [Custodial Layer](yellow-network/architecture-and-design/custodial-layer.md)
-  * [Supported Technologies](yellow-network/architecture-and-design/supported-technologies.md)
-  * [Risk Management](yellow-network/architecture-and-design/risk-management.md)
-* [📥 Yellow Reserve Vault](yellow-network/yellow-reserve-vault.md)
-* [💳 Fees](yellow-network/fees/README.md)
-  * [Clearing Fee](yellow-network/fees/clearing-fee.md)
-  * [Fee Calculation Example](yellow-network/fees/fee-calculation-example.md)
-* [👥 Partners & Advisors](yellow-network/partners-and-advisors.md)
-* [🍿 Core Team](yellow-network/core-team.md)
-* [🆕 Offering](yellow-network/offering.md)
-* [🗣️ Communications & Marketing](yellow-network/communications-and-marketing.md)
+* [Institutional Onboarding](for-institutions/institutional-onboarding.md)
+* [Sub-account Management](for-institutions/sub-account-management.md)
+* [Prime Brokerage Services](for-institutions/prime-brokerage-services.md)
 
-## Docs Hub
+## Platform Architecture
 
-* [📄 Whitepaper](docs-hub/whitepaper.md)
+* [Core Concepts](platform-architecture/core-concepts/README.md)
+  * [State Channels Explained](platform-architecture/core-concepts/state-channels-explained.md)
+  * [The Yellow Clearing Network](platform-architecture/core-concepts/the-yellow-clearing-network.md)
+  * [Aggregated Liquidity](platform-architecture/core-concepts/aggregated-liquidity.md)
+  * [Execution & Latency](platform-architecture/core-concepts/execution-and-latency.md)
+* [Security](platform-architecture/security/README.md)
+  * [Self-Custody & Smart Contracts](platform-architecture/security/self-custody-and-smart-contracts.md)
+  * [Security Audits](platform-architecture/security/security-audits.md)
+  * [Bug Bounty Program](platform-architecture/security/bug-bounty-program.md)
 
-## Duckies
+## API & SDK
 
-* [🦆 Ducklings Game](duckies/ducklings-game.md)
-* [📃 Duckies One-Pager](duckies/duckies-one-pager.md)
+* [Introduction](api-and-sdk/introduction.md)
+* [Getting Started with the API](api-and-sdk/getting-started-with-the-api.md)
+* [REST API Reference](api-and-sdk/rest-api-reference.md)
+* [WebSocket API Reference](api-and-sdk/websocket-api-reference.md)
+* [Yellow SDK](api-and-sdk/yellow-sdk.md)
 
-## Social Media & Community
+## The $YELLOW Token
 
-* [🐦 Twitter](https://twitter.com/Yellow)
-* [🗣️ Telegram](https://t.me/yellow_org)
-* [🔉 Discord](https://discord.gg/yellownetwork)
-* [📚 Medium.com](https://medium.com/@yellow_blog)
+* [Tokenomics](the-usdyellow-token/tokenomics.md)
+* [Staking & Rewards](the-usdyellow-token/staking-and-rewards.md)
+* [Token Status & Availability](the-usdyellow-token/token-status-and-availability.md)
+* [Contracts & Networks](the-usdyellow-token/contracts-and-networks.md)
+* [Token Integration Event (TIE) & Delivery](the-usdyellow-token/token-integration-event-tie-and-delivery.md)
+* [Acquiring $YELLOW](the-usdyellow-token/acquiring-usdyellow.md)
 
-## Legal
+## Community & Resources
 
-* [📝 General T\&C](legal/general-t-and-c.md)
-* [🪙 $YELLOW T\&C](legal/usdyellow-t-and-c.md)
-* [🔐 Audit & KYC](legal/audit-and-kyc.md)
-* [🔏 Privacy Policy](legal/privacy-policy.md)
-
-## More from Yellow
-
-* [🔵 Openware](https://www.openware.com/)
-* [🟢 Yellow Capital](https://yellow.capital/)
-* [🌿 Yellow Connect](https://www.instagram.com/yellowcoworking/?hl=en)
+* [Community Channels](community-and-resources/community-channels.md)
+* [Brand Assets](community-and-resources/brand-assets.md)
+* [Support](community-and-resources/support/README.md)
+  * [FAQ](community-and-resources/support/faq.md)
+  * [Troubleshooting](community-and-resources/support/troubleshooting.md)
+  * [Contact Support](community-and-resources/support/contact-support.md)
