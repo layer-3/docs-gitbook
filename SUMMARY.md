@@ -22,6 +22,8 @@
 * [Order Types](trading-on-yellow/order-types.md)
 * [Fees](trading-on-yellow/fees.md)
 * [Account Management](trading-on-yellow/account-management.md)
+* [Fee Split](trading-on-yellow/fee-split.md)
+* [Buyback](trading-on-yellow/buyback.md)
 
 ## For Institutions
 
@@ -49,14 +51,14 @@
 * [WebSocket API Reference](api-and-sdk/websocket-api-reference.md)
 * [Yellow SDK](api-and-sdk/yellow-sdk.md)
 
-## The $YELLOW Token
+## The $YELLOW Token <a href="#the-yellow-token" id="the-yellow-token"></a>
 
-* [Tokenomics](the-usdyellow-token/tokenomics.md)
-* [Staking & Rewards](the-usdyellow-token/staking-and-rewards.md)
-* [Token Status & Availability](the-usdyellow-token/token-status-and-availability.md)
-* [Contracts & Networks](the-usdyellow-token/contracts-and-networks.md)
-* [Token Integration Event (TIE) & Delivery](the-usdyellow-token/token-integration-event-tie-and-delivery.md)
-* [Acquiring $YELLOW](the-usdyellow-token/acquiring-usdyellow.md)
+* [Tokenomics](the-yellow-token/tokenomics.md)
+* [Staking & Rewards](the-yellow-token/staking-and-rewards.md)
+* [Token Status & Availability](the-yellow-token/token-status-and-availability.md)
+* [Contracts & Networks](the-yellow-token/contracts-and-networks.md)
+* [Token Integration Event (TIE) & Delivery](the-yellow-token/token-integration-event-tie-and-delivery.md)
+* [Acquiring $YELLOW](the-yellow-token/acquiring-usdyellow.md)
 
 ## Community & Resources
 
