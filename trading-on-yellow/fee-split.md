@@ -1,60 +1,49 @@
 # Fee Split
 
-Yellow charges trading fees when orders are filled (see [Fees](fees.md) for current rates and VIP tiers). This page explains what happens to those fees after they are collected.
+Every trading fee on Yellow gets split into buckets. Here is where your fee goes.
 
-### Where Fees Go
+## The split
 
-Every collected trading fee is automatically split into two buckets:
+For a standard trade (no referral attached):
 
-* **15% — Platform operations.** Funds ongoing platform costs.
-* **85% — $YELLOW buyback.** Used to buy $YELLOW on the open market.
+| Bucket              | Share |
+| ------------------- | ----- |
+| Buyback of $YELLOW  | 85%   |
+| Platform operations | 15%   |
 
-The split is applied to every fee, on every trade, in both spot and perpetual markets.
+For a trade by a referred user:
 
-### How the Buyback Works
+| Bucket                 | Standard | Referred |
+| ---------------------- | -------- | -------- |
+| Platform operations    | 15%      | 5%       |
+| Rewards & competitions | —        | 10%      |
+| Referral commission    | —        | 20–50%   |
+| Buyback of $YELLOW     | 85%      | the rest |
 
-The buyback share is held in a dedicated platform account and processed periodically.
+## What each bucket does
 
-The process runs in two phases:
+**Buyback** — used to buy $YELLOW on the open market. See [$YELLOW Buyback](/broken/pages/f5087861d798778b70704cbbe9039c708eef6fd5).
 
-1. **Consolidation.** Fees collected in non-quote currencies (for example, ETH from an ETH/USDT trade) are sold into the buyback quote currency on Yellow's own spot markets.
-2. **Purchase.** The consolidated quote balance is used to buy $YELLOW on the open market through standard spot orders.
+**Platform operations** — funds Yellow's running costs.
 
-Acquired $YELLOW moves to a platform-owned holding account.
+**Rewards & competitions** — funds trading competitions and reward campaigns paid out to users.
 
-The buyback runs on a regular cadence; specific timing is operational and may change.
+**Referral commission** — paid to the partner who referred the user. The rate depends on the partner agreement. See [Referral Program](/broken/pages/54c7ecdac9da4035c268a40430610e0d9d9aa573).
 
-### Why a Buyback
+## How it works in practice
 
-The buyback creates a continuous demand signal for $YELLOW that scales with platform activity. Higher trading volume means more fees, which means a larger buyback.
+The split happens automatically on every fill. You don't see it as a deduction — your fee is still your fee. What changes is where that fee goes after Yellow collects it.
 
-This is a direct economic link between using Yellow and the $YELLOW token, independent of any speculative activity.
+A referred user pays the same fee a non-referred user does. The difference is internal: a portion of their fee is routed to their partner instead of to buyback.
 
-### Auditability
+## Why it's structured this way
 
-Each step in the flow is recorded:
+The buyback bucket is the dominant share. It ties $YELLOW directly to platform activity — every trade generates buy pressure.
 
-* the fee collected on the original trade
-* the split allocation into operations and buyback buckets
-* the consolidation trades that convert fees into the quote currency
-* the $YELLOW purchase orders
+The referral bucket lets Yellow grow through partners without inflating fees on the user side. Partners are paid from the same fee, not on top of it.
 
-The full chain from a single trade fee to the resulting $YELLOW purchase is preserved end to end.
+## Related
 
-### Extensibility
-
-The split mechanism is designed to support additional buckets without redesign. A future split — for example, adding a referral reward bucket — is a policy change rather than a platform change.
-
-The current policy is 15% operations / 85% buyback. Any future change to the policy will be announced before it takes effect.
-
-### What This Means in Practice
-
-* every trading fee you pay on Yellow is split 15 / 85 — operations vs. $YELLOW buyback
-* the buyback share is converted into $YELLOW through normal market orders on Yellow's spot books
-* the higher the platform's trading volume, the larger the buyback flow into $YELLOW
-* the policy can be extended in the future (for example, to include referral rewards) without changing the underlying mechanism
-
-### Related Pages
-
-* [Fees](fees.md) — current fee rates, VIP tiers, and $YELLOW discounts
-* [The $YELLOW Token](/broken/pages/J28UKSzcT5EIn6iV6Sgw) — token utility and supply mechanics
+* [$YELLOW Buyback](buyback.md) — how the 85% becomes $YELLOW
+* [Referral Program](../getting-started/referral-program/) — how the referral bucket works
+* [Fees](fees.md) — what you actually pay
