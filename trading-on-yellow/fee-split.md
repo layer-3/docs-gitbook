@@ -1,6 +1,6 @@
 # Fee Split
 
-Yellow charges trading fees when orders are filled (see [Fees](/broken/pages/e1b9a0d97bdc34f0b3a2e81b620399104a8ac720) for current rates and VIP tiers). This page explains what happens to those fees after they are collected.
+Yellow charges trading fees when orders are filled (see [Fees](fees.md) for current rates and VIP tiers). This page explains what happens to those fees after they are collected.
 
 ### Where Fees Go
 
@@ -56,6 +56,5 @@ The current policy is 15% operations / 85% buyback. Any future change to the pol
 
 ### Related Pages
 
-* [Fees](/broken/pages/e1b9a0d97bdc34f0b3a2e81b620399104a8ac720) — current fee rates, VIP tiers, and $YELLOW discounts
+* [Fees](fees.md) — current fee rates, VIP tiers, and $YELLOW discounts
 * [The $YELLOW Token](/broken/pages/J28UKSzcT5EIn6iV6Sgw) — token utility and supply mechanics
-
