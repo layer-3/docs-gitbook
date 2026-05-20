@@ -25,7 +25,7 @@ For a trade by a referred user:
 * **Buyback** — used to buy $YELLOW on the open market. See [$YELLOW Buyback](buyback.md).
 * **Platform operations** — funds Yellow's running costs.
 * **Rewards & competitions** — funds trading competitions and reward campaigns paid out to users.
-* **Referral commission** — paid to the partner who referred the user. The rate depends on the partner agreement. See [Referral Program](../getting-started/referral-program/).
+* **Referral commission** — paid to the partner who referred the user. The rate depends on the partner agreement. See [Referral Program](../getting-started/referral-program.md).
 
 ## How it works in practice
 
@@ -42,5 +42,5 @@ The referral bucket lets Yellow grow through partners without inflating fees on 
 ## Related
 
 * [$YELLOW Buyback](buyback.md) — how the 85% becomes $YELLOW
-* [Referral Program](../getting-started/referral-program/) — how the referral bucket works
+* [Referral Program](../getting-started/referral-program.md) — how the referral bucket works
 * [Fees](fees.md) — what you actually pay

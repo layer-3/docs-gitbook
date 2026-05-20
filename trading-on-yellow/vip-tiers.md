@@ -108,5 +108,5 @@ The fee you actually paid is also visible on every fill in your trade history.
 * [Fees](fees.md) — how trading fees are calculated and where to check them
 * [Spot](markets/spot.md) — spot trading basics
 * [Perpetuals](markets/perpetuals.md) — perp trading basics
-* [Referral Program](../getting-started/referral-program/) — partners can grant a starting VIP tier to invited users
+* [Referral Program](../getting-started/referral-program.md) — partners can grant a starting VIP tier to invited users
 * [The $YELLOW Token](/broken/pages/J28UKSzcT5EIn6iV6Sgw) — token utility, including the holding-based fee discount

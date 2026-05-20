@@ -10,8 +10,7 @@
 * [Transfer Funds](getting-started/transfer-funds.md)
 * [Place a Trade](getting-started/quickstart.md)
 * [Withdraw Your Funds](getting-started/withdraw-your-funds.md)
-* [Referral Program](getting-started/referral-program/README.md)
-  * [referral program](getting-started/referral-program/referral-program.md)
+* [Referral Program](getting-started/referral-program.md)
 
 ## Trading on Yellow
 
@@ -61,6 +60,9 @@
 * [Contracts & Networks](the-yellow-token/contracts-and-networks.md)
 * [Token Integration Event (TIE) & Delivery](the-yellow-token/token-integration-event-tie-and-delivery.md)
 * [Acquiring $YELLOW](the-yellow-token/acquiring-usdyellow.md)
+* [Page 1](the-yellow-token/page-1/README.md)
+  * [referral program](the-yellow-token/page-1/referral-program.md)
+  * [buyback](the-yellow-token/page-1/buyback.md)
 
 ## Community & Resources
 

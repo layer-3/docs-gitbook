@@ -1,8 +1,4 @@
----
-hidden: true
----
-
-# Buyback
+# buyback
 
 We use **85%** of every trading fee on Yellow to buy back $YELLOW on the open market.
 
@@ -33,5 +29,5 @@ Every buyback run is recorded end to end — the fees collected, the consolidati
 
 ## Related
 
-* [Fee Split](fee-split.md) — where the other 15% goes
-* [Fees](fees.md) — what generates the buyback in the first place
+* [Fee Split](/broken/pages/5f83c56dc4cb42e1fa30db2a4b50914e641b8c37) — where the other 15% goes
+* [Fees](/broken/pages/cfb7591e77e25a1b8558bcd2efb3a7c705ffaf21) — what generates the buyback in the first place
