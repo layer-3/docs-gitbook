@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Vip Tiers
 
 Your trading fees on Yellow depend on your **VIP level**. Every account starts at Base and moves up through six VIP levels as your activity or $YELLOW holdings grow.

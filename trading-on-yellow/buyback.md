@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Buyback
 
 Yellow runs a continuous buyback of the $YELLOW token funded by trading fees. This page explains how it works.
