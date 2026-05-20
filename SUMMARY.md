@@ -25,6 +25,7 @@
 * [Account Management](trading-on-yellow/account-management.md)
 * [Fee Split](trading-on-yellow/fee-split.md)
 * [Buyback](trading-on-yellow/buyback.md)
+* [Vip Tiers](trading-on-yellow/vip-tiers.md)
 
 ## For Institutions
 
