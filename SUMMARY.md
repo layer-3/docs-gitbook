@@ -10,7 +10,8 @@
 * [Transfer Funds](getting-started/transfer-funds.md)
 * [Place a Trade](getting-started/quickstart.md)
 * [Withdraw Your Funds](getting-started/withdraw-your-funds.md)
-* [Referral Program](getting-started/referral-program.md)
+* [Referral Program](getting-started/referral-program/README.md)
+  * [referral program](getting-started/referral-program/referral-program.md)
 
 ## Trading on Yellow
 
