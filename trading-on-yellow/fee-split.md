@@ -22,13 +22,10 @@ For a trade by a referred user:
 
 ## What each bucket does
 
-**Buyback** — used to buy $YELLOW on the open market. See [$YELLOW Buyback](/broken/pages/f5087861d798778b70704cbbe9039c708eef6fd5).
-
-**Platform operations** — funds Yellow's running costs.
-
-**Rewards & competitions** — funds trading competitions and reward campaigns paid out to users.
-
-**Referral commission** — paid to the partner who referred the user. The rate depends on the partner agreement. See [Referral Program](/broken/pages/54c7ecdac9da4035c268a40430610e0d9d9aa573).
+* **Buyback** — used to buy $YELLOW on the open market. See [$YELLOW Buyback](buyback.md).
+* **Platform operations** — funds Yellow's running costs.
+* **Rewards & competitions** — funds trading competitions and reward campaigns paid out to users.
+* **Referral commission** — paid to the partner who referred the user. The rate depends on the partner agreement. See [Referral Program](../getting-started/referral-program/).
 
 ## How it works in practice
 
