@@ -49,6 +49,7 @@
 * [Introduction](api-and-sdk/introduction.md)
 * [Getting Started with the API](api-and-sdk/getting-started-with-the-api.md)
 * [REST API Reference](api-and-sdk/rest-api-reference.md)
+* [API Reference (Full)](api-and-sdk/public-api-reference.md)
 * [WebSocket API Reference](api-and-sdk/websocket-api-reference.md)
 * [Yellow SDK](api-and-sdk/yellow-sdk.md)
 
