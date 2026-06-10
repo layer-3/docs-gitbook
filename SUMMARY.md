@@ -72,3 +72,19 @@
   * [FAQ](community-and-resources/support/faq.md)
   * [Troubleshooting](community-and-resources/support/troubleshooting.md)
   * [Contact Support](community-and-resources/support/contact-support.md)
+
+## API
+
+* [README](api/readme.md)
+* [Getting Started with API](api/getting-started-with-api.md)
+* [Authentication Service API](api/authentication-service-api.md)
+* [API Key Managment](api/api-key-managment.md)
+* [Signing Requests With API Keys](api/signing-requests-with-api-keys.md)
+* [Trading API Service](api/trading-api-service.md)
+* [Market Data API](api/market-data-api.md)
+* [Spot Trading API](api/spot-trading-api.md)
+* [Account Transfers API](api/account-transfers-api.md)
+* [Perpetuals Trading API](api/perpetuals-trading-api.md)
+* [WebSocket Api](api/websocket-api.md)
+* [Error Handling API](api/error-handling-api.md)
+* [Reference](api/reference.md)
