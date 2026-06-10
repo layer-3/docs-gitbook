@@ -1,9 +1,9 @@
 # API Key Managment
 
-API keys let you call authenticated endpoints from servers and scripts. You create and manage keys through these endpoints, then sign each request as described in [Signing Requests with API Keys](/broken/pages/bd0a002af558c9bbcc6292fe7c2b05b6876c7585).
+API keys let you call authenticated endpoints from servers and scripts. You create and manage keys through these endpoints, then sign each request as described in [Signing Requests With API Keys](signing-requests-with-api-keys.md).
 
 {% hint style="warning" %}
-API key management endpoints require **JWT authentication** — obtain a JWT first via the [Authentication Service](/broken/pages/578f9763d2d40b78e48c8f2facfb43abbfed2f2a). You cannot manage API keys using API key headers; doing so returns `403 forbidden_auth_method`.
+API key management endpoints require **JWT authentication** — obtain a JWT first via the [Authentication Service API](authentication-service-api.md). You cannot manage API keys using API key headers; doing so returns `403 forbidden_auth_method`.
 {% endhint %}
 
 ## Scopes
@@ -181,4 +181,4 @@ Revoke an API key by its `id`. Revocation is immediate and permanent; the key ca
 
 ## Next step
 
-Once you have an API key and secret, see [Signing Requests with API Keys](/broken/pages/bd0a002af558c9bbcc6292fe7c2b05b6876c7585) to authenticate your requests.
+Once you have an API key and secret, see [Signing Requests With API Keys](signing-requests-with-api-keys.md) to authenticate your requests.

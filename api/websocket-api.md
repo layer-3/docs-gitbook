@@ -1451,8 +1451,8 @@ The WebSocket API supports recovery on reconnect:
 
 Placing and canceling orders over WebSocket is not available. Use the REST API instead:
 
-* [Spot Trading](/broken/pages/d00fd8a1adf15936bec76105a8c1bbe57c4bb8f9)
-* [Perpetuals Trading](/broken/pages/061f2de556a991ceddc49694e8fec148e2f4ed83)
+* [Spot Trading API](spot-trading-api.md)
+* [Perpetuals Trading API](perpetuals-trading-api.md)
 
 Order **notifications** (`order.updated`, `order.cancelled`, `order.expired`) are still delivered over WebSocket on your private channel — see [Order updates](websocket-api.md#order-updates).
 

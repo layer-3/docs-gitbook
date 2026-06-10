@@ -490,7 +490,7 @@ Retrieve open spot orders with cursor pagination.
 {% endhint %}
 
 {% hint style="info" %}
-**Pagination:** Spot list endpoints use cursor-based pagination. See [Pagination](/broken/pages/b93db56a4d5e4b2656bac7bec7c7292840b07205#pagination) for the shared model.
+**Pagination:** Spot list endpoints use cursor-based pagination. See [Pagination](reference.md#pagination) for the shared model.
 {% endhint %}
 
 **Query Parameters**:
@@ -587,7 +587,7 @@ Retrieve spot order history with cursor pagination.
 {% endhint %}
 
 {% hint style="info" %}
-**Pagination:** This endpoint uses cursor-based pagination. See [Pagination](/broken/pages/b93db56a4d5e4b2656bac7bec7c7292840b07205#pagination).
+**Pagination:** This endpoint uses cursor-based pagination. See [Pagination](reference.md#pagination).
 {% endhint %}
 
 **Query Parameters**:
@@ -630,7 +630,7 @@ Retrieve spot trade history with cursor pagination.
 {% endhint %}
 
 {% hint style="info" %}
-**Pagination:** This endpoint uses cursor-based pagination. See [Pagination](/broken/pages/b93db56a4d5e4b2656bac7bec7c7292840b07205#pagination).
+**Pagination:** This endpoint uses cursor-based pagination. See [Pagination](reference.md#pagination).
 {% endhint %}
 
 **Query Parameters**:
@@ -714,7 +714,7 @@ Retrieve spot deposit history with cursor pagination.
 {% endhint %}
 
 {% hint style="info" %}
-**Pagination:** This endpoint uses cursor-based pagination. See [Pagination](/broken/pages/b93db56a4d5e4b2656bac7bec7c7292840b07205#pagination).
+**Pagination:** This endpoint uses cursor-based pagination. See [Pagination](reference.md#pagination).
 {% endhint %}
 
 **Query Parameters**:
@@ -791,7 +791,7 @@ Retrieve spot withdrawal history with cursor pagination.
 {% endhint %}
 
 {% hint style="info" %}
-**Pagination:** This endpoint uses cursor-based pagination. See [Pagination](/broken/pages/b93db56a4d5e4b2656bac7bec7c7292840b07205#pagination).
+**Pagination:** This endpoint uses cursor-based pagination. See [Pagination](reference.md#pagination).
 {% endhint %}
 
 **Query Parameters**:

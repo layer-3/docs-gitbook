@@ -26,7 +26,7 @@ Check if the trading API service is running and healthy.
 ## Market Data
 
 {% hint style="info" %}
-Exchange information (markets, precisions, fees) is available per product at [`GET /spot/exchangeInfo`](/broken/pages/d00fd8a1adf15936bec76105a8c1bbe57c4bb8f9) and [`GET /perpetual/exchangeInfo`](/broken/pages/061f2de556a991ceddc49694e8fec148e2f4ed83).
+Exchange information (markets, precisions, fees) is available per product at [`GET /spot/exchangeInfo`](spot-trading-api.md) and [`GET /perpetual/exchangeInfo`](perpetuals-trading-api.md).
 {% endhint %}
 
 ### GET /orderbook

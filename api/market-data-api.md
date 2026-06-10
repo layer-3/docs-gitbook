@@ -1,6 +1,6 @@
 # Market Data API
 
-These endpoints provide real-time market data for prices, technical indicators, and market analysis. Base URL: see [Base URLs](/broken/pages/d5e7080f2f3f4949887f3bed201f2ca3877b559a#base-urls).
+These endpoints provide real-time market data for prices, technical indicators, and market analysis. Base URL: see [Base URLs](./#base-urls).
 
 ## Health Endpoints
 

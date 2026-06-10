@@ -6,7 +6,7 @@ This guide walks you through authenticating with the Yellow API so you can start
 All trading, account, and transfer endpoints require authentication. Market data endpoints are public and need no credentials.
 {% endhint %}
 
-For API base URLs, see [Base URLs](/broken/pages/d5e7080f2f3f4949887f3bed201f2ca3877b559a#base-urls).
+For API base URLs, see [Base URLs](./#base-urls).
 
 ## Authentication Flow
 
@@ -48,7 +48,7 @@ Authorization: Bearer <your-jwt-token>
 {% endstep %}
 {% endstepper %}
 
-See the [Authentication Service API](/broken/pages/578f9763d2d40b78e48c8f2facfb43abbfed2f2a) for full request and response details on each endpoint.
+See the [Authentication Service API](authentication-service-api.md) for full request and response details on each endpoint.
 
 ## Authentication Methods
 
@@ -77,7 +77,7 @@ X-SIGNATURE: <HMAC-SHA256 signature of the request>
 * Supported by all authenticated endpoints (spot, perpetuals, transfers)
 * Automatically falls back to JWT if API key headers are not present
 
-See [**Signing Requests with API Keys**](/broken/pages/bd0a002af558c9bbcc6292fe7c2b05b6876c7585) for the exact signature algorithm and ready-to-use Node.js and Python examples.
+See [**Signing Requests With API Keys**](signing-requests-with-api-keys.md) for the exact signature algorithm and ready-to-use Node.js and Python examples.
 
 {% hint style="danger" %}
 Never commit API keys or secrets to version control. Store them in environment variables or a secrets manager.
@@ -96,12 +96,12 @@ Never commit API keys or secrets to version control. Store them in environment v
 
 ## Next Steps
 
-<a href="/broken/pages/ec147ad67071d832318aac1f934248e948963a53" class="button primary" data-icon="key">Create an API key</a>
+<a href="api-key-managment.md" class="button primary" data-icon="key">Create an API key</a>
 
-| Section                            | Description                               | Target                                                                          |
-| ---------------------------------- | ----------------------------------------- | ------------------------------------------------------------------------------- |
-| **API Key Management**             | Create, list, and revoke API keys         | [api-keys.md](/broken/pages/ec147ad67071d832318aac1f934248e948963a53)           |
-| **Signing Requests with API Keys** | HMAC-SHA256 signing with code examples    | [signing-requests.md](/broken/pages/bd0a002af558c9bbcc6292fe7c2b05b6876c7585)   |
-| **Market Data API**                | Prices and indicators (no auth required)  | [market-data.md](/broken/pages/7bdd7f76fdbc648389cfe547c41d95e65d3b6d3a)        |
-| **Spot Trading**                   | Place and manage spot orders              | [spot-trading.md](/broken/pages/d00fd8a1adf15936bec76105a8c1bbe57c4bb8f9)       |
-| **Perpetuals Trading**             | Positions, leverage, and perpetual orders | [perpetuals-trading.md](/broken/pages/061f2de556a991ceddc49694e8fec148e2f4ed83) |
+| Section                            | Description                               | Target                                                   |
+| ---------------------------------- | ----------------------------------------- | -------------------------------------------------------- |
+| **API Key Management**             | Create, list, and revoke API keys         | [api-keys.md](api-key-managment.md)                      |
+| **Signing Requests with API Keys** | HMAC-SHA256 signing with code examples    | [signing-requests.md](signing-requests-with-api-keys.md) |
+| **Market Data API**                | Prices and indicators (no auth required)  | [market-data.md](market-data-api.md)                     |
+| **Spot Trading**                   | Place and manage spot orders              | [spot-trading.md](spot-trading-api.md)                   |
+| **Perpetuals Trading**             | Positions, leverage, and perpetual orders | [perpetuals-trading.md](perpetuals-trading-api.md)       |
